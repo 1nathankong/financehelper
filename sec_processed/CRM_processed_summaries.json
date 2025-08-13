@@ -1,0 +1,28 @@
+{
+  "company": "CRM",
+  "sections": {
+    "PART IV": {
+      "ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES": {
+        "original_content": "(a) The following documents are filed as a part of this Annual Report on Form 10-K:\n1.\nFinancial Statements\n: The information concerning our financial statements, and Report of Independent Registered Public Accounting Firm required by this Item is incorporated by reference herein to the section of this Annual Report on Form 10-K in Item 8, entitled “Financial Statements and Supplementary Data.”\n2.\nFinancial Statement Schedules\n: The Financial Statement Schedules have been omitted because they are not applicable or are not required or are not present in material amounts or the information required to be set forth herein is included in the Consolidated Financial Statements or Notes thereto.\n3.\nExhibits:\nSee “Index to Exhibits.”\n(b)\nExhibits.\nThe exhibits listed below in the accompanying “Index to Exhibits” are filed or incorporated by reference as part of this Annual Report on Form 10-K.",
+        "summary": "Here are the key facts extracted from PART IV - ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES:\n\n• The information concerning CRM's financial statements and Report of Independent Registered Public Accounting Firm is incorporated by reference in Item 8, entitled \"Financial Statements and Supplementary Data.\"\n• The Financial Statement Schedules have been omitted because they are not applicable or are not required.\n• The exhibits listed in the accompanying \"Index to Exhibits\" are filed or incorporated by reference as part of this Annual Report on Form 10-K.",
+        "word_count": 142,
+        "summary_word_count": 87
+      },
+      "ITEM 16. FORM 10-K SUMMARY": {
+        "original_content": "Omitted at Registrant’s option.\nIndex to Exhibits\nSIGNATURES\nPursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.\nPOWER OF ATTORNEY AND SIGNATURES\nKNOW ALL PERSONS BY THESE PRESENT, that each person whose signature appears below constitutes and appoints Marc Benioff, Amy Weaver, Sundeep Reddy and Sabastian Niles, his or her attorney-in-fact, each with the power of substitution, for him or her in any and all capacities, to sign any amendments to this Annual Report on Form 10-K, and to file the same, with exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that said attorney-in-fact, or his or her substitute or substitutes, may do or cause to be done by virtue hereof. Pursuant to the requirements of the Securities Exchange Act of 1934, this Annual Report on Form 10-K has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.",
+        "summary": "Unfortunately, the provided text does not contain any key facts from PART IV - ITEM 16. FORM 10-K SUMMARY section of CRM's Form 10-K. The text appears to be a placeholder or an omitted section, as indicated by \"Omitted at Registrant’s option.\"\n\nHowever, I can provide some general information about Salesforce.com (CRM) and its Form 10-K:\n\n* Salesforce.com is a leading provider of customer relationship management (CRM) software.\n* Its Form 10-K is an annual report filed with the Securities and Exchange Commission (SEC).\n* The report provides financial statements, business operations, and other information about the company.\n\nIf you provide more context or the actual content from PART IV - ITEM 16. FORM 10-K SUMMARY section, I can help extract key facts in bullet points.",
+        "word_count": 187,
+        "summary_word_count": 126
+      }
+    }
+  },
+  "metadata": {
+    "parts_count": 1,
+    "total_sections": 2,
+    "models_used": {
+      "summarization": "llama3.2",
+      "embedding": "dengcao/Qwen3-Embedding-0.6B:Q8_0"
+    },
+    "ollama_base_url": "http://localhost:11434"
+  }
+}
