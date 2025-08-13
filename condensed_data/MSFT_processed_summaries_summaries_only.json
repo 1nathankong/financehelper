@@ -1,0 +1,34 @@
+{
+  "company": "MSFT",
+  "sections": {
+    "PART I": {
+      "ITEM 2. PR": {
+        "summary": "Here are the key facts extracted from PART I - ITEM 2. PR section in bullet points:\n\n• MSFT's corporate headquarters are located in Redmond, Washington.\n• The company has approximately 15 million square feet of space used for various purposes in King County, Washington.\n• Approximately 12 million square feet of owned space is situated on approximately 530 acres of land at the corporate headquarters.\n• The company owns and leases facilities domestically and internationally, including offices, datacenters, and research and development spaces.\n• As of June 30, 2024, MSFT's international properties include:\n - Owned properties in China, India, Ireland, and the Netherlands (square footage not specified).\n - Leased properties in Australia, Canada, China, France, Germany, India, Ireland, Israel, Japan, the Netherlands, and the United Kingdom (square footage not specified)."
+      }
+    },
+    "PART II": {
+      "ITEM 9B. OTHER": {
+        "summary": "Here are the key facts from PART II - ITEM 9B. OTHER section:\n\n• None of MSFT's officers or directors adopted, modified, or terminated a \"Rule 10b5-1 trading arrangement\" during the three months ended June 30, 2024.\n• No non-Rule 10b5-1 trading arrangements were adopted, modified, or terminated by MSFT's officers or directors during the three months ended June 30, 2024."
+      }
+    },
+    "PART III": {
+      "ITEM 14. PRINCIPAL ACCOU": {
+        "summary": "Here are the key facts extracted from PART III - ITEM 14. PRINCIPAL ACCOU section in bullet points:\n\n• The principal accountant for MSFT is Deloitte & Touche LLP (PCAOB ID No.: XXXX).\n• Fees and services provided by Deloitte & Touche LLP are disclosed under the headings \"Fees Billed by Deloitte & Touche\" and \"Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Auditor\" in the Proxy Statement.\n \nNote: The PCAOB ID number is not provided as it was not included in the original text."
+      }
+    },
+    "PART IV": {
+      "ITEM 16. FORM": {
+        "summary": "Here are the key facts extracted from PART IV - ITEM 16. FORM section as bullet points:\n\n• The report was signed on July 30, 2024.\n• The signing location is the City of Redmond, State of Washington.\n• The report is pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934.\n\nNote: There are no other key facts provided in this section."
+      }
+    }
+  },
+  "metadata": {
+    "parts_count": 4,
+    "total_sections": 11,
+    "models_used": {
+      "summarization": "llama3.2",
+      "embedding": "dengcao/Qwen3-Embedding-0.6B:Q8_0"
+    },
+    "ollama_base_url": "http://localhost:11434"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "company": "CRM",
+  "sections": {},
+  "metadata": {
+    "parts_count": 1,
+    "total_sections": 2,
+    "models_used": {
+      "summarization": "llama3.2",
+      "embedding": "dengcao/Qwen3-Embedding-0.6B:Q8_0"
+    },
+    "ollama_base_url": "http://localhost:11434"
+  }
+}
