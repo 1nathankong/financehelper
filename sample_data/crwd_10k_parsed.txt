@@ -1,0 +1,1281 @@
+PART II
+=======
+
+ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+--------------------------------------------------------------------------------------------------------------------
+Market Information for Common Stock
+Our Class A common stock has been listed and traded on the Nasdaq Global Select Market under the symbol “CRWD” since June 12, 2019. Prior to that date, there was no public market for our Class A common stock. There is no public market for our Class B common stock. On December 11, 2024, all of our outstanding shares of Class B common stock automatically converted into an equal number of shares of Class A common stock pursuant to the provisions of the Amended and Restated Certificate of Incorporation.
+Holders of Record
+As of January 31, 2025, we had 95 holders of record of our Class A common stock and zero holders of record of our Class B common stock. The actual number of stockholders is greater than this number of record holders and includes stockholders who are beneficial owners but whose shares are held in street name by brokers and other nominees.
+Dividend Policy
+We have never declared or paid any cash dividends on our capital stock. We currently intend to retain all available funds and any future earnings for use in the operation of our business and do not expect to pay any dividends on our capital stock in the foreseeable future. Additionally, our ability to pay dividends is limited by restrictions on our ability to pay dividends or make distributions under the terms of our credit facility. Any future determination to declare dividends will be made at the discretion of our board of directors, subject to applicable laws, and will depend on a number of factors, including our financial condition, results of operations, capital requirements, contractual restrictions, general business conditions, and other factors that our board of directors may deem relevant.
+Securities Authorized for Issuance under Equity Compensation Plans
+The information required by this item with respect to our equity compensation plans is incorporated by reference to our Proxy Statement for the 2025 Annual Meeting of Stockholders to be filed with the Securities and Exchange Commission within 120 days of the fiscal year ended January 31, 2025.
+Recent Sales of Unregistered Equity Securities and Use of Proceeds
+(a) Sale of Unregistered Equity Securities
+On November 20, 2024, we issued approximately $22.8 million of shares of our Class A common stock, subject to service-based vesting and other conditions, to certain stockholders of Adaptive Shield in connection with our acquisition of Adaptive Shield. The transaction was exempt from registration under Section 4(a)(2) of the Securities Act.
+(b) Use of Proceeds from Public Offering of Common Stock
+None.
+Issuer Purchases of Equity Securities
+None.
+Table of
+Contents
+Stock Performance Graph
+This performance graph shall not be deemed “soliciting material” or to be “filed” with the SEC for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities under that Section, and shall not be deemed to be incorporated by reference into any filing of CrowdStrike Holdings, Inc. under the Securities Act or the Exchange Act.
+We have presented below the cumulative total return to our stockholders for the five years ended January 31, 2025 in comparison to the Standard & Poor’s 500 Index, Standard & Poor Information Technology Index, and the Nasdaq 100 Index. All values assume a $100 initial investment and data for the Standard & Poor’s 500 Index, Standard & Poor Information Technology Index and the Nasdaq 100 Index assume reinvestment of dividends. The comparisons are based on historical data and are not indicative of, nor intended to forecast, the future performance of our common stock.
+
+ITEM 6. [RESERVED]
+------------------
+Table of
+Contents
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+---------------------------------------------------------------------------------------------
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes thereto included in Item 8 “Financial Statements and Supplementary Data” in this Annual Report on Form 10-K. This section of this Form 10-K generally discusses fiscal 2025 and 2024 items and year-over-year comparisons between fiscal 2025 and 2024. Discussions of fiscal 2023 items and year-over-year comparisons between fiscal 2024 and 2023 are not included in this Form 10-K, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended January 31, 2024. Some of the information contained in this discussion and analysis or set forth elsewhere in this Annual Report on Form 10-K, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties, including those described under the heading “Special Note Regarding Forward-Looking Statements.” You should review the disclosure under Part I, Item 1A, “Risk Factors” in this Annual Report on Form 10-K for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis. Our fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, are referred to herein as fiscal 2025, fiscal 2024, and fiscal 2023, respectively.
+Overview
+Founded in 2011, CrowdStrike reinvented cybersecurity for the cloud era and transformed the way cybersecurity is delivered and experienced by customers. When we started CrowdStrike, cyberattackers had an asymmetric advantage over legacy cybersecurity products that could not keep pace with the rapid changes in adversary tactics. We took a fundamentally different approach to solve this problem with the AI-native CrowdStrike Falcon platform – the first, true cloud-native unified platform built with AI at the core, capable of harnessing vast amounts of security and enterprise data to deliver highly modular solutions through a single lightweight agent.
+We believe our approach has defined a new category called the Security Cloud, which has transformed the cybersecurity industry the same way the cloud has transformed the customer relationship management, human resources, and service management industries. Using cloud-scale AI, our Security Cloud enriches and correlates trillions of cybersecurity events per week with indicators of attack, threat intelligence, and enterprise data (including data from across endpoints, workloads, identities, DevOps, IT assets, and configurations) to create actionable data, identify shifts in adversary tactics, and automatically prevent threats in real-time across our customer base. The more data that is fed into our Falcon platform, the more intelligent our Security Cloud becomes, and the more our customers benefit, creating a powerful network effect that increases the overall value we provide.
+Our Go-To-Market Strategy
+We sell subscriptions to our Falcon platform and cloud modules to organizations across multiple industries. We primarily sell subscriptions to our Falcon platform and cloud modules through our direct sales team that leverages our network of channel partners. Our direct sales team is comprised of field sales and inside sales professionals who are segmented by a customer’s number of endpoints.
+We have a low friction land-and-expand sales strategy. When customers deploy our Falcon platform, they can start with any number of cloud modules and easily add additional cloud modules. Once customers experience the benefits of our Falcon platform, they often expand their adoption over time by adding more endpoints or purchasing additional modules. We also use our sales team to identify current customers who may be interested in free trials of additional cloud modules, which serves as a powerful driver of our land-and-expand model. By segmenting our sales teams, we can deploy a low-touch sales model that efficiently identifies prospective customers.
+We began as a solution for large enterprises, but the flexibility and scalability of our Falcon platform has enabled us to seamlessly offer our solution to customers of any size. We have expanded our sales focus to include any sized organization without the need to modify our Falcon platform for small and medium sized businesses.
+Table of
+Contents
+A substantial majority of our customers purchase subscriptions with a term over one year. Our subscriptions are generally priced on a per-endpoint and per-module basis. We recognize revenue from our subscriptions ratably over the term of the subscription. We also generate revenue from our incident response and proactive professional services, which are generally priced on a time and materials basis. We view our professional services business primarily as an opportunity to cross-sell subscriptions to our Falcon platform and cloud modules.
+Certain Factors Affecting Our Performance
+Adoption of Our Solutions.
+We believe our future success depends in large part on the growth in the market for cloud-based SaaS-delivered endpoint security solutions. Many organizations have not yet abandoned the on-premise legacy products in which they have invested substantial personnel and financial resources to design and maintain. As a result, it is difficult to predict customer adoption rates and demand for our cloud-based solutions.
+New Customer Acquisition.
+Our future growth depends in large part on our ability to acquire new customers. If our efforts to attract new customers are not successful, our revenue and rate of revenue growth may decline. We believe that our go-to-market strategy and the flexibility and scalability of our Falcon platform allow us to rapidly expand our customer base. Our incident response and proactive services also help drive new customer acquisitions, as many of these professional services customers subsequently purchase subscriptions to our Falcon platform. Many organizations have not yet adopted cloud-based security solutions, and since our Falcon platform has offerings for organizations of all sizes, worldwide, and across industries, we believe this presents a significant opportunity for growth.
+Maintain Customer Retention and Increase Sales.
+Our ability to increase revenue depends in large part on our ability to retain our existing customers and increase the size of their subscriptions. We focus on increasing sales to our existing customers by expanding their deployments to more endpoints and selling additional cloud modules for increased functionality. Over time we have transitioned our platform from a single offering into highly-integrated offerings of multiple cloud modules.
+Invest in Growth.
+We believe that our market opportunity is large and requires us to continue to invest significantly in sales and marketing efforts to further grow our customer base, both domestically and internationally. Our open cloud architecture and single data model have allowed us to rapidly build and deploy new cloud modules, and we expect to continue investing in those efforts to further enhance our technology platform and product functionality. In addition to our ongoing investment in research and development, we may also pursue acquisitions of businesses, technologies, and assets that complement and expand the functionality of our Falcon platform, add to our technology or security expertise, or bolster our leadership position by gaining access to new customers or markets. Furthermore, we expect our general and administrative expenses to increase in dollar amount for the foreseeable future given the additional expenses for accounting, compliance, and investor relations as we grow as a public company.
+July 19 Incident
+. On July 19, 2024, we released a content configuration update for our Falcon sensor that resulted in system crashes for certain Windows systems (the “July 19 Incident”). As a result of the July 19 Incident, we are subject to lawsuits, claims and inquiries as described in Note 10, Commitments and Contingencies, in Part II, Item 8 of this Annual Report on Form 10-K
+.
+We have incurred, and expect to continue to incur, significant legal and professional services and other general and administrative expenses associated with the July 19 Incident in future periods. It is not reasonably possible to quantify the precise impact of the July 19 Incident, but the incident has adversely affected our results of operations, and we currently expect a number of factors relating to the incident to adversely affect our key metrics and results of operations in future periods. While we have maintained high dollar-based gross retention rates following the incident, we have experienced delays in creating sales opportunities and longer sales cycles, including delays in customer purchasing decisions. We expect sales cycles to continue to be elongated in future periods. In addition, because our customers typically sign contracts with terms of twelve months or longer, customer churn and any corresponding impact to our key metrics and revenue may occur in future periods. Customer commitment packages introduced following the July 19 Incident have included discounting, additional modules, professional services, flexible payment terms or subscription period extensions. Our customer commitment packages have resulted, and are expected to continue to result, in increased contraction, due to elongated subscription terms, and decreased upsell dollar values.
+Table of
+Contents
+Key Metrics
+We monitor the following key metrics to help us evaluate our business, identify trends affecting our business, formulate business plans, and make strategic decisions.
+Annual Recurring Revenue (
+“
+ARR
+”
+)
+ARR is calculated as the annualized value of our customer subscription contracts as of the measurement date, assuming any contract that expires during the next 12 months is renewed on its existing terms. To the extent that we are negotiating a renewal with a customer after the expiration of the subscription, we continue to include that revenue in ARR if we are actively in discussion with such organization for a new subscription or renewal, or until such organization notifies us that it is not renewing its subscription.
+The following table sets forth our ARR as of the dates presented (dollars in thousands):
+ARR increased 23% year-over-year and grew to $4.2 billion as of January 31, 2025, of which $806.7 million was net new ARR added during fiscal 2025. ARR increased 34% year-over-year and grew to $3.4 billion as of January 31, 2024, of which $875.5 million was net new ARR added during fiscal 2024.
+Dollar-Based Net Retention Rate
+Our dollar-based net retention rate compares our ARR from a set of subscription customers against the same metric for those subscription customers from the prior year. Our dollar-based net retention rate reflects customer renewals, expansion, contraction, and churn, and excludes revenue from our incident response and proactive services. We calculate our dollar-based net retention rate as of period end by starting with the ARR from all subscription customers as of 12 months prior to such period end, or Prior Period ARR. We then calculate the ARR from these same subscription customers as of the current period end, or Current Period ARR. Current Period ARR includes any expansion and is net of contraction or churn over the trailing 12 months but excludes revenue from new subscription customers in the current period. We then divide the Current Period ARR by the Prior Period ARR to arrive at our dollar-based net retention rate. For the purposes of calculating our dollar-based net retention rate, we define a subscription customer as a separate legal entity that has entered into a distinct subscription agreement for access to our Falcon platform for which the term has not ended or with which we are negotiating a renewal contract. We do not consider our channel partners as customers, and we treat managed service security providers, who may purchase our products on behalf of multiple companies, as a single customer.
+Our dollar-based net retention rate can fluctuate from period to period due to large customer contracts in a given period and incentives provided, which may reduce our dollar-based net retention rate in subsequent periods. In addition, if our customers are not able to fully utilize their product subscriptions (including in connection with our flexible subscription offering), we may experience increased contraction as such customers may elect to renew with shorter subscription periods, fewer cloud modules, fewer endpoints or smaller contract values, which may reduce our dollar-based net retention rate.
+Table of
+Contents
+Components of Our Results of Operations
+Revenue
+Subscription Revenue.
+Subscription revenue primarily consists of subscription fees for our Falcon platform and additional cloud modules that are supported by our cloud-based platform. Subscription revenue is driven primarily by the number of subscription customers, the number of endpoints per customer, and the number of cloud modules included in the subscription. We recognize subscription revenue ratably over the term of the agreement, which is generally one to three years. We generally invoice our subscription customers at the beginning of the subscription term, or in some instances, such as in multi-year arrangements, in installments. Consequently, a substantial portion of the revenue that we report in each period is attributable to the recognition of deferred revenue relating to subscriptions that we entered into during previous periods.
+Professional Services Revenue.
+Professional services revenue includes incident response and proactive services, forensic and malware analysis, attribution analysis, operationalizing the Falcon Platform, residency program, and active defense services. Professional services are generally sold separately from subscriptions to our Falcon platform, although customers frequently enter into a separate arrangement to purchase subscriptions to our Falcon platform at the conclusion of a professional services arrangement. Professional services are available through hourly rate and fixed fee contracts, one-time and ongoing engagements, and retainer-based agreements. For time and materials and retainer-based arrangements, revenue is recognized as services are performed. Fixed fee contracts account for an immaterial portion of our revenue.
+Cost of Revenue
+Subscription Cost of Revenue.
+Subscription cost of revenue consists primarily of costs related to hosting our cloud-based Falcon platform in data centers, amortization of our capitalized internal-use software, employee-related costs such as salaries and bonuses, stock-based compensation expense, benefits costs associated with our operations and support personnel, software license fees, property and equipment depreciation, amortization of acquired intangibles, and an allocated portion of facilities and administrative costs.
+As new customers subscribe to our platform and existing subscription customers increase the number of endpoints on our Falcon platform, our cost of revenue will increase due to greater cloud hosting costs related to powering new cloud modules and the incremental costs for storing additional data collected for such cloud modules and employee-related costs. We intend to continue to invest additional resources in our cloud platform and our customer support organizations as we grow our business. The level and timing of investment in these areas could affect our cost of revenue in the future.
+Professional Services Cost of Revenue.
+Professional services cost of revenue consists primarily of employee-related costs, such as salaries and bonuses, stock-based compensation expense, consulting expense, and an allocated portion of facilities and administrative costs.
+Gross Profit and Gross Margin
+Gross profit and gross margin have been and will continue to be affected by various factors, including the timing of our acquisition of new subscription customers, renewals from existing subscription customers, sales of additional modules to existing subscription customers, the data center and bandwidth costs associated with operating our cloud platform, the extent to which we expand our customer support and cloud operations organizations, and the extent to which we can increase the efficiency of our technology, infrastructure, and data centers through technological improvements. We expect our gross profit to increase in dollar amount and our gross margin to increase modestly over the long term as we grow our business, although our gross margin could fluctuate from period to period depending on the interplay of these factors. Demand for our incident response services is driven by the number of breaches experienced by non-customers. Also, we view our professional services solutions in the context of our larger business and as a significant lead generator for new subscriptions. Because of these factors, our services revenue and gross margin may fluctuate over time.
+Table of
+Contents
+Operating Expenses
+Our operating expenses consist of sales and marketing, research and development, and general administrative expenses. For each of these categories of expense, employee-related expenses are the most significant component, which include salaries, employee bonuses, sales commissions, and employer payroll tax. Operating expenses also include an allocated portion of overhead costs for facilities and other administrative functions.
+Sales and Marketing.
+Sales and marketing expenses primarily consist of employee-related expenses such as salaries, commissions, and bonuses. Sales and marketing expenses also include stock-based compensation; expenses related to our marketing programs; and an allocated portion of facilities and administrative expenses. Sales and marketing expenses also include the amortization of deferred contract acquisition costs, which includes commissions and any other incremental payments made upon the initial acquisition of a subscription or upsells to existing customers, which are capitalized and amortized over the estimated customer life. We also capitalize and amortize any such expenses paid for the renewal of a subscription over the term of the renewal.
+We expect sales and marketing expenses to increase in dollar amount as we continue to make significant investments in our sales and marketing organization to drive additional revenue, further penetrate the market, and expand our global customer base. However, we anticipate sales and marketing expenses to decrease as a percentage of our total revenue over time as we grow our business, although our sales and marketing expenses may fluctuate as a percentage of our total revenue from period to period depending on the timing of these expenses.
+Research and Development.
+Research and development expenses primarily consist of employee-related expenses such as salaries and bonuses; stock-based compensation; cloud hosting and related costs; and an allocated portion of facilities and administrative expenses. Our cloud platform is software-driven, and our research and development teams employ software engineers in the design, and the related development, testing, certification, and support of these solutions.
+We expect research and development expenses to increase in dollar amount as we continue to increase investments in our technology architecture and software platform. However, we anticipate research and development expenses to decrease as a percentage of our total revenue over time as we grow our business, although our research and development expenses may fluctuate as a percentage of our total revenue from period to period depending on the timing of these expenses.
+General and Administrative.
+General and administrative expenses consist of employee-related expenses such as salaries and bonuses; stock-based compensation; and related expenses for our executive, finance, human resources, and legal organizations. In addition, general and administrative expenses include outside legal, accounting, and other professional fees; and an allocated portion of facilities and administrative expenses.
+We expect general and administrative expenses to increase in dollar amount over time. We expect to incur significant legal and professional services and other expenses associated with the July 19 Incident in future periods. General and administrative expenses may fluctuate as a percentage of our total revenue from period to period depending on the timing of these expenses.
+Interest Expense.
+Interest expense consists primarily of amortization of debt issuance costs, contractual interest expense for our Senior Notes issued in January 2021, and amortization of debt issuance costs on our secured revolving credit facility (“Revolving Facility”).
+Interest Income.
+Interest income consists primarily of income earned on our cash, cash equivalents, and short-term investments.
+Other Income, Net.
+Other income, net consists primarily of gains and losses on strategic investments and foreign currency transaction gains and losses.
+Table of
+Contents
+Provision for Income Taxes.
+Provision for income taxes consists of state income taxes in the United States, foreign income taxes, and withholding taxes related to customer payments in certain foreign jurisdictions in which we conduct business. We maintain a full valuation allowance on our U.S. federal and state and certain foreign deferred tax assets, including net operating loss carryforwards and tax credits, which we have determined are not realizable on a more-likely-than-not basis. We regularly evaluate the need for a valuation allowance.
+Net Income Attributable to Non-controlling Interest
+. Net income attributable to non-controlling interest consists of the Falcon Funds’ non-controlling interest share of gains and losses and interest income from our strategic investments.
+Results of Operations
+The following tables set forth our consolidated statements of operations for each period presented (in thousands, except percentages):
+Table of
+Contents
+The following table presents the components of our consolidated statements of operations as a percentage of total revenue for the periods presented:
+Comparison of Fiscal 2025 and Fiscal 2024
+Revenue
+The following shows total revenue from subscriptions and professional services for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+Total revenue increased by $898.1 million, or 29%, in fiscal 2025, compared to fiscal 2024. Subscription revenue accounted for 95% and 94% of our total revenue in fiscal 2025 and fiscal 2024, respectively. Professional services revenue accounted for 5% and 6% of our total revenue in fiscal 2025 and fiscal 2024, respectively.
+Subscription revenue increased by $890.9 million, or 31% in fiscal 2025, compared to fiscal 2024, which was primarily driven by a combination of the addition of new customers and the sale of additional sensors and modules to existing customers.
+Table of
+Contents
+Professional services revenue increased by $7.1 million, or 4%, in fiscal
+, compared to fiscal 2024, which was primarily attributable to an increase in the number of professional service hours.
+Cost of Revenue, Gross Profit, and Gross Margin
+The following shows cost of revenue related to subscriptions and professional services for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+Total cost of revenue increased by $235.8 million, or 31%, in fiscal
+, compared to fiscal 2024. Subscription cost of revenue increased by $204.8 million, or 32%, in fiscal
+, compared to fiscal 2024. The increase in subscription cost of revenue was primarily due to an increase in employee-related expenses of $55.6 million driven by a 28% increase in average headcount, an increase in depreciation of data center equipment of $38.4 million, an increase in stock-based compensation expense of $29.7 million, an increase in cloud hosting and related services costs of $28.5 million, an increase in allocated overhead costs of $20.3 million, an increase in amortization of internal-use software of $17.6 million, an increase in hardware maintenance costs of $5.4 million, and an increase in employee benefits of $4.2 million.
+Professional services cost of revenue increased by $31.0 million, or 25%, in fiscal
+, compared to fiscal 2024. The increase in professional services cost of revenue was primarily due to an increase in employee-related expenses of $13.1 million driven by an 20% increase in average headcount, an increase in stock-based compensation expense of $8.8 million, an increase in allocated overhead costs of $5.0 million, an increase in consulting expense of $2.2 million, and an increase in employee benefits of $1.0 million.
+The following shows gross profit and gross margin for subscriptions and professional services for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+Subscription gross margin was flat
+in fiscal 2025
+, compared to fiscal 2024.
+Professional services gross margin decreased by
+13%
+in fiscal 2025, compared to fiscal
+.
+The decrease in professional services gross margin was primarily due to an increase in consulting expense and decreased utilization
+during fiscal 2025 compared to fiscal
+2024.
+Table of
+Contents
+Operating Expenses
+Sales and Marketing
+The following shows sales and marketing expenses for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+Sales and marketing expenses increased by $382.8 million, or 34%, in fiscal
+, compared to fiscal 2024. The increase in sales and marketing expenses was primarily due to an increase in employee-related expenses of $159.0 million driven by a 14% increase in average headcount, an increase in stock-based compensation expense of $59.7 million, an increase in marketing programs of $55.5 million, an increase in allocated overhead costs of $28.4 million, $21.4 million of expenses relating to the July 19 Incident, an increase in travel expenses of $13.1 million, an increase in company events expenses of $8.6 million, an increase in employee benefits of $6.3 million, an increase in term-based software licenses of $5.4 million, an increase in cloud hosting and related costs of $4.2 million, an increase in other labor expenses of $2.8 million, and an increase in consulting expense of $2.5 million.
+Research and Development
+The following shows research and development expenses for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+Research and development expenses increased by $308.4 million, or 40% in fiscal
+, compared to fiscal 2024. This increase was primarily due to an increase in stock-based compensation expense of $131.7 million, an increase in employee-related expenses of $119.3 million driven by a 18% increase in average headcount, an increase in cloud hosting and related costs of $64.2 million, $6.8 million of expenses relating to the July 19 Incident, an increase in term-based software licenses of $6.4 million, an increase in employee benefits of $5.1 million, an increase in travel expenses of $3.2 million, and an increase in consulting expense of $1.7 million, partially offset by a decrease in allocated engineering and overhead costs of $27.5 million, an increase in software capitalization of $11.4 million, and a decrease in other labor expenses of $9.7 million.
+General and Administrative
+The following shows general and administrative expenses for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+General and administrative expenses increased by $89.6 million, or 23%, in fiscal 2025, compared to fiscal 2024. The increase in general and administrative expenses was primarily due to $31.9 million of expenses relating to the July 19 Incident, an increase in employee-related expenses of $27.2 million driven by a 19% increase in average headcount, an increase in allocated overhead costs of $6.3 million, an increase in consulting expense of $5.0 million, an increase in leased airfare costs of $4.5 million, an increase in stock-based compensation expense of $4.0 million, an increase in travel expenses of $2.3 million, an increase in company events expenses of $2.1 million, an increase in term-based software licenses of $2.1 million, an increase in taxes and licenses expenses of $2.0 million, an increase in employee related programs of $1.8 million, and an increase in other labor expenses of $1.7 million, partially offset by a decrease in legal expense of $7.5 million unrelated to the July 19 Incident.
+Table of
+Contents
+Interest Expense, Interest Income and Other Income, Net
+The following shows interest expense, interest income, and other income, net, for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+Interest expense consists primarily of amortization of debt issuance costs, contractual interest expense, accretion of debt discount for our Senior Notes issued in January 2021, and amortization of debt issuance costs on our Revolving Facility.
+The increase in interest income during fiscal 2025 compared to fiscal 2024 was driven by an increase in our cash and cash equivalents.
+The increase in other income, net during fiscal 2025 compared to fiscal 2024 was primarily due to an increase in gains on our strategic investments of $2.4 million, a decrease in downward mark to market adjustments of $0.5 million on our strategic investments, and gains on deferred compensation assets of $0.4 million.
+Provision for Income Taxes
+The following shows the provision for income taxes for fiscal 2025, as compared to fiscal 2024 (in thousands, except percentages):
+The increase in provision for income taxes during fiscal 2025 compared to fiscal 2024 was primarily attributable to  intercompany sales of intellectual property from acquired entities, pre-tax foreign earnings, withholding taxes related to customer payments in certain foreign jurisdictions, and change in the realizability of deferred tax assets in certain foreign jurisdictions.
+Liquidity and Capital Resources
+Our primary sources of liquidity as of January 31, 2025, consisted of: (i) $4.3 billion in cash and cash equivalents, which mainly consists of cash on hand and highly liquid investments in money market funds and U.S. Treasury bills, (ii) cash we expect to generate from operations, and (iii) available capacity under our $750.0 million Revolving Facility. It is not currently possible to reasonably estimate the amount of loss or range of possible loss that might result from adverse judgments, settlements, penalties, or other resolution of proceedings resulting from the July 19 Incident. However, despite such uncertainties, we expect that the combination of our existing cash and cash equivalents, cash flows from operations, and the Revolving Facility will be sufficient to meet our anticipated cash needs for working capital and capital expenditures for at least the next 12 months. Our Revolving Facility matures on January 2, 2026.
+Our short-term and long-term liquidity requirements primarily arise from: (i) business acquisitions and investments we may make from time to time, (ii) working capital requirements, (iii) interest and principal payments related to our outstanding indebtedness, (iv) research and development and capital expenditure needs, and (v) license and service arrangements integral to our business operations. Our ability to fund these requirements will depend, in part, on our future cash flows, which are determined by our future operating performance and, therefore, subject to prevailing global macroeconomic conditions and financial, business, and other factors, some of which are beyond our control.
+Table of
+Contents
+We have historically generated operating losses prior to fiscal 2024 and during fiscal 2025, as reflected in our accumulated deficit of $1.1 billion as of January 31, 2025. We expect to continue to make investments, particularly in sales and marketing and research and development. As a result, we may require additional capital resources in the future to execute strategic initiatives to grow our business.
+We generally invoice our subscription customers at the beginning of the subscription term, or in some instances, such as in multi-year arrangements, in installments. Therefore, a substantial source of our cash is from such prepayments, which are included on our consolidated balance sheets as deferred revenue. Deferred revenue primarily consists of billed fees for our subscriptions, prior to satisfying the criteria for revenue recognition, which are subsequently recognized as revenue in accordance with our revenue recognition policy. As of January 31, 2025, we had deferred revenue of $3.7 billion, of which $2.7 billion was recorded as a current liability and is expected to be recorded as revenue in the next 12 months, provided all other revenue recognition criteria have been met.
+We do not have any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities. We do not have any outstanding derivative financial instruments, off-balance sheet guarantees, interest rate swap transactions, or foreign currency forward contracts.
+Cash Flows
+The following table summarizes our cash flows for the periods presented (in thousands):
+Operating Activities
+Net cash provided by operating activities during fiscal 2025 was $1.4 billion, which resulted from net loss of $16.6 million, adjusted for non-cash charges of $1.4 billion and net cash outflow of $6.0 million from changes in operating assets and liabilities. Non-cash charges primarily consisted of $865.4 million in stock-based compensation expense, $318.8 million of amortization of deferred contract acquisition costs, $188.0 million of depreciation and amortization, $26.0 million of amortization of intangibles assets, $15.3 million of non-cash operating lease costs, $3.8 million of non-cash interest expense, and $2.3 million of accretion of short-term investments purchased at a discount, partially offset by $9.9 million of deferred income taxes and $6.3 million of realized gains on strategic investments. The net cash outflow from changes in operating assets and liabilities was primarily due to a $584.5 million increase in deferred contract acquisition costs, a $274.2 million increase in accounts receivable, net, a $190.2 million increase in prepaid expenses and other assets, and a $15.7 million decrease in operating lease liabilities, partially offset by a $669.3 million increase in deferred revenue, a $218.5 million increase in accrued expenses and other liabilities, an $85.9 million increase in accrued payroll and benefits, and an $84.9 million increase in accounts payable.
+Net cash provided by operating activities during fiscal 2024 was $1.2 billion, which resulted from net income of $90.6 million, adjusted for non-cash charges of $1.0 billion and net cash inflow of $51.5 million from changes in operating assets and liabilities. Non-cash charges primarily consisted of $631.5 million in stock-based compensation expense, $238.9 million of amortization of deferred contract acquisition costs, $126.8 million of depreciation and amortization, $18.4 million of amortization of intangibles assets, $13.4 million of non-cash operating lease costs, and $3.2 million of non-cash interest expense, partially offset by $3.9 million of realized gains on strategic investments and a $3.4 million change in deferred income taxes. The net cash inflow from changes in operating assets and liabilities was primarily due to a $696.6 million increase in deferred revenue, a $65.1 million increase in accrued payroll and benefits, a $14.6 million increase in accrued expenses and other liabilities, partially offset by a $371.6 million increase in deferred contract acquisition costs, a $217.7 million increase in accounts receivable, net, a $102.5 million increase in prepaid expenses and other assets, a $18.9 million decrease in accounts payable, and a $14.0 million decrease in operating lease liabilities.
+Table of
+Contents
+Investing Activities
+Net cash used in investing activities during fiscal 2025 of $536.6 million was primarily due to business acquisitions, net of cash acquired, of $310.3 million, which was related to the Flow Security and Adaptive Shield acquisitions, purchases of property and equipment of $254.9 million, capitalized internal-use software and website development costs of $59.0 million, purchases of strategic investments of $19.7 million, and purchases of deferred compensation investments of $2.7 million, partially offset by proceeds from maturities of short-term investments of $97.3 million and proceeds from sales of strategic investments of $12.5 million.
+Net cash used in investing activities during fiscal 2024 of $340.7 million was primarily due to business acquisitions, net of cash acquired, of $239.0 million, which was related to the Bionic acquisition, purchases of short-term investments of $195.6 million, purchases of property and equipment of $176.5 million, capitalized internal-use software and website development costs of $49.5 million, purchases of strategic investments of $17.2 million, purchases of intangible assets of $11.1 million, and purchases of deferred compensation investments of $2.0 million, partially offset by proceeds from maturities and sales of short-term investments of $348.3 million, and proceeds from sales of strategic investments of $2.0 million.
+Financing Activities
+Net cash provided by financing activities of $107.2 million during fiscal 2025 was primarily due to proceeds from our employee stock purchase plan of $99.6 million, capital contributions from non-controlling interest holders of $8.5 million, and proceeds from the exercise of stock options of $4.0 million, partially offset by distributions to non-controlling interest holders of $4.9 million.
+Net cash provided by financing activities of $93.2 million during fiscal 2024 was primarily due to proceeds from our employee stock purchase plan of $76.4 million, proceeds from the exercise of stock options of $8.7 million, and capital contributions from non-controlling interests of $8.1 million.
+Supplemental Guarantor Financial Information
+Our Senior Notes are guaranteed on a senior, unsecured basis by CrowdStrike, Inc. and CrowdStrike Financial Services, Inc., wholly owned subsidiaries of CrowdStrike Holdings, Inc. (the “subsidiary guarantors,” and together with CrowdStrike Holdings, Inc., the “Obligor Group”). The guarantee is full and unconditional and is subject to certain conditions for release. See Note 5, Debt, in Part II, Item 8 of this Annual Report on Form 10-K, for a brief description of the Senior Notes.
+We conduct our operations almost entirely through our subsidiaries. Accordingly, the Obligor Group’s cash flows and ability to service the notes will depend on the earnings of our subsidiaries and the distribution of those earnings to the Obligor Group, whether by dividends, loans, or otherwise. Holders of the guaranteed registered debt securities will have a direct claim only against the Obligor Group.
+Summarized financial information is presented below for the Obligor Group on a combined basis after elimination of intercompany transactions and balances within the Obligor Group and equity in the earnings from and investments in any non-guarantor subsidiary. The revenue amounts presented in the summarized financial information include substantially all of our consolidated revenue, and there is no intercompany revenue from the non-guarantor subsidiaries. This summarized financial information has been prepared and presented pursuant to Regulation S-X Rule 13-01, “Financial Disclosures about Guarantors and Issuers of Guaranteed Securities” and is not intended to present the financial position or results of operations of the Obligor Group in accordance with U.S. GAAP.
+Table of
+Contents
+Strategic Investments
+In July 2019, we agreed to commit up to $10.0 million to a newly formed entity, CrowdStrike Falcon Fund LLC (the “Original Falcon Fund”) in exchange for 50% of the sharing percentage of any distribution by the Original Falcon Fund. In December 2021, we agreed to commit an additional $50.0 million to a newly formed entity, CrowdStrike Falcon Fund II LLC (“Falcon Fund II”) in exchange for 50% of the sharing percentage of any distribution by Falcon Fund II. Further, entities associated with Accel also agreed to commit up to $10.0 million and $50.0 million, respectively, to the Original Falcon Fund and Falcon Fund II (collectively, the “Falcon Funds”), and collectively own the remaining 50% of the sharing percentage of the Falcon Funds. Both Falcon Funds are in the business of purchasing, selling, and investing in minority equity and convertible debt securities of privately-held companies that develop applications that have potential for substantial contribution to us and our platform. We are the manager of the Falcon Funds and control their investment decisions and day-to-day operations and accordingly have consolidated each of the Falcon Funds. Each Falcon Fund has a duration of ten years and may be extended for three additional years. At dissolution, the Falcon Funds will be liquidated, and the remaining assets will be distributed to the investors based on their respective sharing percentage.
+Contractual Obligations and Commitments
+Our commitments consist of obligations under non-cancellable real estate arrangements on an undiscounted basis, of which $14.1 million is due in the next 12 months and $35.6 million is due thereafter. In addition, we have debt obligations related to $750.0 million aggregate principal amount of the Senior Notes due in fiscal 2030 and the interest payments associated with the Senior Notes of $22.5 million due in the next 12 months and $78.8 million due thereafter. We have non-cancellable purchase commitments with various parties to purchase products and services entered in the normal course of business totaling $2.7 billion as of January 31, 2025, with remaining terms in excess of 12 months. We expect to fund these obligations with cash flows from operations and cash on our balance sheet.
+As of January 31, 2025, our unrecognized tax benefits included $53.1 million, which were classified as long-term liabilities due to the inherent uncertainty with respect to the timing of future cash outflows associated with our unrecognized tax benefits.
+As of January 31, 2025, we had non-cancellable unfunded commitments from our financing arrangements totaling approximately $94.2 million.
+Table of
+Contents
+Critical Accounting Policies and Estimates
+Our management’s discussion and analysis of financial condition and results of operations is based upon our consolidated financial statements and notes to our consolidated financial statements, which were prepared in accordance with U.S. GAAP. The preparation of the consolidated financial statements requires our management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. See Note 1, Description of Business and Significant Accounting Policies to our consolidated financial statements included in Item 8, Financial Statements and Supplementary Data of this Annual Report on Form 10-K. We base our estimates and judgments on our historical experience, knowledge of factors affecting our business, and our belief as to what could occur in the future considering available information and assumptions that are believed to be reasonable under the circumstances.
+The accounting estimates we use in the preparation of our consolidated financial statements will change as new events occur, more experience is acquired, additional information is obtained, and our operating environment changes. Changes in estimates are made when circumstances warrant. Such changes in estimates and refinements in estimation methodologies are reflected in our reported results of operations and, if material, the effects of changes in estimates are disclosed in the notes to our consolidated financial statements. By their nature, these estimates and judgments are subject to an inherent degree of uncertainty and actual results could differ materially from the amounts reported based on these estimates.
+The critical accounting estimates, assumptions, and judgments that we believe have the most significant impact on our consolidated financial statements are described below.
+Revenue Recognition
+We derive our revenue predominately from subscription revenue, which is primarily based on the solutions subscribed to by the customer. We recognize subscription revenue ratably over the contract term. Our professional services are available through time and material and fixed fee agreements. Revenue from professional services is recognized as services are performed.
+We enter into revenue contracts with multiple performance obligations in which a customer may purchase combinations of subscriptions, support, training, and consulting service. Judgment is required when considering the terms and conditions of these contracts. The transaction price for these contracts is allocated to the separate performance obligations on a relative standalone selling price (“SSP”) basis. The SSP is the price at which we would sell promised subscription or professional services separately to a customer.
+Business Combinations
+We allocate the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition date. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. The purchase price allocation process requires management to make significant estimates and assumptions with respect to intangible assets. Although we believe the assumptions and estimates we have made are reasonable, they are based in part on historical experience, market conditions, and information obtained from management of the acquired companies and are inherently uncertain. Examples of judgments used to estimate the fair value of intangibles assets include, but are not limited to, future expected cash flows, expected customer attrition rates, estimated obsolescence rates, and discount rates. These estimates are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.
+Income Taxes
+We account for income taxes using the asset and liability method. Under this method, deferred tax assets and liabilities are determined based on differences between the financial statement and tax basis of assets and liabilities and net operating loss and credit carryforwards using enacted tax rates in effect for the year in which the differences are expected to reverse. Valuation allowances are established when necessary to reduce deferred tax assets to the amounts expected to be realized.
+Table of
+Contents
+We account for unrecognized tax benefits using a more-likely-than-not threshold for financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. We establish a liability for tax-related uncertainties based on estimates of whether, and the extent to which, additional taxes will be due. Our assumptions, judgments, and estimates relative to the current provision for income taxes take into account current tax laws, our interpretation of current tax laws, and possible outcomes of current and future audits conducted by foreign and domestic tax authorities. We have established reserves for income taxes to address potential exposures involving tax positions that could be challenged by tax authorities. In addition, we are subject to the continual examination of our income tax returns by the U.S. Internal Revenue Service (“IRS”) and other domestic and foreign tax authorities. We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for potential adjustments that may result from such examinations. We believe such estimates to be reasonable; however, the final determination of any of these examinations could significantly impact the amounts provided for income taxes in our consolidated financial statements.
+Recently Issued Accounting Pronouncements
+See Note 1, Description of Business and Significant Accounting Policies, included in Part II, Item 8 of this Annual Report on Form 10-K for more information about the impact of certain recent accounting pronouncements on our consolidated financial statements.
+Table of
+Contents
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+-------------------------------------------------------------------
+We have operations in the United States and internationally, and we are exposed to market risk in the ordinary course of business.
+Interest Rate Risk
+Our cash and cash equivalents primarily consist of cash on hand and highly liquid investments in money market funds, U.S. Treasury bills, and time deposits. Our short-term investments consist of U.S. Treasury bills and time deposits. Our investments do not have significant interest rate risk, as the yields on our investments are fixed rates. As of January 31, 2025, we had cash and cash equivalents of $4.3 billion. As of January 31, 2024, we had cash and cash equivalents of $3.4 billion and short-term investments of $99.6 million. The primary objectives of our investment activities are the preservation of capital, the fulfillment of liquidity needs, and the fiduciary control of cash and investments. We do not enter into investments for trading or speculative purposes. The effect of a hypothetical 100 basis point change in interest rates would not have had a material effect on the fair market value of our portfolio as of January 31, 2025 or January 31, 2024. We therefore do not expect our results of operations or cash flows to be materially affected by a sudden change in market interest rates.
+Our debt obligations consist of a variety of financial instruments that expose us to interest rate risk, including, but not limited to our revolving credit facility and the Senior Notes. The interest on the revolving credit facility is tied to short-term interest rate benchmarks including the Term SOFR. The interest rate on the Senior Notes is fixed.
+Foreign Currency Risk
+To date, nearly all of our sales contracts have been denominated in U.S. dollars. A portion of our operating expenses are incurred outside the United States, denominated in foreign currencies, and subject to fluctuations due to changes in foreign currency exchange rates, particularly changes in the British Pound, Australian Dollar, and Euro. The functional currencies of our foreign subsidiaries are generally the country’s local currency. Foreign currency transaction gains and losses are recorded to other income (expense), net. A hypothetical 10% adverse change in the U.S. dollar against other currencies would have resulted in an increase in operating loss of approximately $108.3 million, $75.8 million and $55.5 million for the fiscal years ended January 31, 2025, January 31, 2024 and January 31, 2023 respectively. We have not entered into derivative or hedging transactions, but we may do so in the future if our exposure to foreign currency becomes more significant.
+Inflation Rate Risk
+We do not believe that inflation had a material effect on our business, financial condition, or results of operations during the fiscal years ended January 31, 2025, January 31, 2024, or January 31, 2023. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition, and results of operations.
+Table of
+Contents
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+---------------------------------------------------
+Index to Consolidated Financial Statements
+Table of
+Contents
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Stockholders of CrowdStrike Holdings, Inc.
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of CrowdStrike Holdings, Inc. and its subsidiaries (the "Company") as of January 31, 2025 and 2024, and the related consolidated statements of operations, of comprehensive income (loss), of stockholders’ equity and of cash flows for each of the three years in the period ended January 31, 2025, including the related notes (collectively referred to as the "consolidated financial statements"). We also have audited the Company's internal control over financial reporting as of January 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of January 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended January 31, 2025 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of January 31, 2025, based on criteria established in Internal Control - Integrated Framework (2013) issued by the COSO.
+Basis for Opinions
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in Management’s Report on Internal Control over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Table of
+Contents
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Critical Audit Matters
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Revenue Recognition – Subscription Revenue
+As described in Note 1 to the consolidated financial statements, subscription revenues are primarily comprised of fees that give customers access to the ordered service, related support and updates, if any, during the subscription term.  The Company initially records the subscription fees as deferred revenue and recognizes revenue on a straight-line basis over the term of the agreement. The Company recognized consolidated subscription revenue of $3,761.5 million for the year ended January 31, 2025.
+The principal consideration for our determination that performing procedures relating to revenue recognition for subscription revenue is a critical audit matter is a high degree of auditor effort in performing procedures relating to the Company’s subscription revenue recognition.
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the subscription revenue recognition process. These procedures also included, among others (i) testing subscription revenue recognized for a sample of revenue transactions by obtaining and inspecting source documents, such as agreements, evidence of delivery of the service, invoices, and receipt of payment and (ii) confirming a sample of outstanding customer invoice balances as of January 31, 2025 and, for confirmations not returned, obtaining and inspecting source documents, such as agreements, evidence of delivery of the service, invoices, and subsequent receipt of payment.
+/s/
+PricewaterhouseCoopers LLP
+San Jose, California
+March 10, 2025
+Table of
+Contents
+CrowdStrike Holdings, Inc.
+Consolidated Balance Sheets
+(in thousands, except per share data)
+The accompanying notes are an integral part of these consolidated financial statements.
+Table of
+Contents
+CrowdStrike Holdings, Inc.
+Consolidated Statements of Operations
+(in thousands, except per share data)
+The accompanying notes are an integral part of these consolidated financial statements.
+Table of
+Contents
+CrowdStrike Holdings, Inc.
+Consolidated Statements of Comprehensive Income (Loss)
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Table of
+Contents
+CrowdStrike Holdings, Inc.
+Consolidated Statements of Stockholders’ Equity
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+Table of
+Contents
+CrowdStrike Holdings, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+The accompanying notes are an integral part of these consolidated financial statements.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+1.
+Description of Business and Significant Accounting Policies
+Business
+CrowdStrike Holdings, Inc. (and/or its subsidiaries, as applicable, the “Company”) was formed on November 7, 2011. The Company is a global cybersecurity leader that delivers cybersecurity’s AI-native platform for the XDR era, purpose-built to stop breaches. The Company’s unified platform provides cloud-delivered protection of endpoints, cloud workloads, identity, and data via a software as a service (“SaaS”) subscription-based model that spans multiple large security markets, including corporate endpoint security, security and IT operations, managed security services, next-gen SIEM, cloud security, identity protection, threat intelligence, data protection, exposure management and cybersecurity generative AI. The Company conducts its business in the United States, as well as locations internationally, including in Australia, Germany, India, Israel, Japan, Romania, and the United Kingdom.
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in conformity with U.S. generally accepted accounting principles (“U.S. GAAP”). Certain prior year information has been reclassified to conform to the current year presentation. These reclassifications had no effect on previously reported results of operations or accumulated deficit.
+Principles of Consolidation
+The consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported and disclosed in the Company’s consolidated financial statements and accompanying notes. These estimates are based on information available as of the date of the consolidated financial statements. On a regular basis, management evaluates these estimates and assumptions. Actual results may differ from these estimates and such differences could be material to the Company’s consolidated financial statements.
+Estimates and assumptions used by management include, but are not limited to, revenue recognition, the allowance for credit losses, the useful lives of long-lived assets, the fair values of strategic investments, the period of benefit for deferred contract acquisition costs, the discount rate used for operating leases, the recognition and disclosure of contingent liabilities, income taxes, stock-based compensation, and the fair value of assets acquired and liabilities assumed in business combinations.
+Concentration of Credit Risk and Geographic Information
+The Company generates revenue from the sale of subscriptions to access its cloud platform and professional services. The Company’s sales team, along with its channel partner network of system integrators and value-added resellers (collectively, “channel partners”), sells the Company’s services worldwide to organizations of all sizes.
+Financial instruments that potentially subject the Company to concentrations of credit risk consist of cash, cash equivalents, accounts receivable, financing receivables, and strategic investments. The Company’s cash is placed with high-credit-quality financial institutions and issuers, and at times exceeds federally insured limits. The Company has not experienced any credit loss relating to its cash, cash equivalents, short-term investments, or strategic investments. The Company performs periodic credit evaluations of its customers and generally does not require collateral.
+There were no channel partners or direct customers who represented 10% or more of the Company’s accounts receivable as of January 31, 2025 and January 31, 2024.
+There were two end users who represented 10% or more of the Company’s financing receivables as of January 31, 2025 representing
+% and
+%, respectively.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+There were no channel partners or direct customers who represented 10% or more of the Company’s total revenue during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023.
+Fair Value of Financial Instruments
+The Company’s financial instruments consist of cash equivalents, short-term investments, strategic investments, accounts receivable, financing receivables, accounts payable, accrued expenses, the Senior Notes, and investments for the Company’s deferred compensation plan. The carrying values of cash equivalents, short-term investments, accounts receivable, financing receivables, accounts payable, and accrued expenses approximate fair value. If these financial instruments were measured at fair value in the consolidated financial statements, money market funds, accounts receivable, accounts payable, accrued expenses, and investments for the Company’s deferred compensation plan would be classified as Level 1, U.S. treasury securities included in cash equivalents and short-term investments would be classified as Level 2, and financing receivables would be classified as Level 3. The Senior Notes are carried at the initially allocated liability value less unamortized debt discount and issuance costs on the Company’s consolidated balance sheets. The Company discloses the fair value of the Senior Notes at each reporting period for disclosure purposes only. The Company's investments related to the deferred compensation plan are invested within a Rabbi Trust. Participants in the deferred compensation plan may select the securities in which their compensation deferrals are invested within the confines of the Rabbi Trust. These securities are marked-to-market each reporting period. Refer to Note 2, Investments and Fair Value Measurements, regarding the fair value of the Company’s financial instruments, and Note 5, Debt, for the fair value of the Company’s Senior Notes.
+Cash Equivalents and Short-term Investments
+The Company considers all highly liquid investments with original maturities of three months or less at the date of purchase to be cash equivalents. Cash equivalents are mainly comprised of money market funds, U.S. Treasury bills, and time deposits. The Company had $
+4.0
+billion and $
+3.1
+billion of cash equivalents as of January 31, 2025 and January 31, 2024, respectively.
+Short-term investments consist of U.S. Treasury bills and time deposits with original maturities greater than three months but less than one year. The Company had
+no
+short-term investments as of January 31, 2025, and $
+99.6
+million of short-term investments as of January 31, 2024. The Company classifies investments in U.S. Treasury bills as available-for-sale securities at the time of purchase and re-evaluates the designations as of each balance sheet date. The Company classifies its available-for-sale securities as short-term investments based on their nature and their availability for use in current operations. Available-for-sale securities are carried at fair value with unrealized gains and losses, if any, included in accumulated other comprehensive income (loss). Unrealized losses are recorded in other income, net, for declines in fair value below the cost of an individual investment that is deemed to be other-than-temporary. The Company did not identify any available-for-sale securities as other-than-temporarily impaired as of January 31, 2025 and January 31, 2024. Realized gains and losses from the sale of available-for-sale securities are determined based on a specific identification method and are recorded in other income, net.
+Accounts Receivable
+Accounts receivable are recorded at the invoiced amount and are non-interest bearing. Accounts receivable are stated at their net realizable value, net of the allowance for credit losses. The Company has a well-established collections history from its customers. Credit is extended to customers based on an evaluation of their financial condition and other factors. The Company generally does not require collateral from its customers; however, the Company may require payment prior to commencing service in certain instances to limit credit risk. The Company regularly reviews the adequacy of the allowance for credit losses by considering various factors including the age of each outstanding invoice, each customer’s expected ability to pay, historical loss rates, and expectations of forward-looking loss estimates to determine whether the allowance is appropriate. Amounts deemed uncollectible are written off against the allowance for credit losses.
+Financing Receivables
+The Company provides financing arrangements for certain qualified end-users to purchase its products and services. Payment terms on these financing arrangements are generally up to
+five years
+. Financing receivables are recorded at amortized cost, which approximates fair value. Financing receivables, with contractual maturities of one year or less, are included in prepaid expenses and other current assets, while those with contractual terms exceeding one year are included in other long-term assets on the consolidated balance sheets.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company evaluates the allowance for credit losses by assessing the risks and losses inherent in the financing receivables on either an individual or a collective basis. The Company's assessment considers various factors, including lifetime expected losses determined using customer risk profile, current economic conditions that may affect a customer's ability to pay, and forward-looking economic considerations. Financing receivables deemed uncollectible are charged against the allowance for credit losses.
+The allowance for credit losses on off-balance sheet credit exposure is estimated at each reporting period based on the contractual period over which the Company is exposed to credit risk via a contractual obligation to extend credit, unless that obligation is unconditionally cancellable by the Company. The portion of the allowance for credit losses related to future disbursements is shown as a liability on the consolidated balance sheets, and the related expense for credit losses is reflected in the consolidated statements of operations.
+Strategic Investments
+In July 2019, the Company agreed to commit up to $
+10.0
+million to a newly formed entity, CrowdStrike Falcon Fund LLC (the “Original Falcon Fund”) in exchange for
+% of the sharing percentage of any distributions by the Original Falcon Fund. In December 2021, the Company agreed to commit an additional $
+50.0
+million to a newly formed entity, CrowdStrike Falcon Fund II LLC (“Falcon Fund II”) in exchange for
+% of the sharing percentage of any distributions by Falcon Fund II. Further, entities associated with Accel also agreed to commit up to $
+10.0
+million and $
+50.0
+million, respectively, to the Original Falcon Fund and Falcon Fund II (collectively, the “Falcon Funds”), and collectively own the remaining
+% of the sharing percentage of the Falcon Funds. Both Falcon Funds are in the business of purchasing, selling, and investing in minority equity and convertible debt securities of privately-held companies that develop applications that have potential for substantial contribution to CrowdStrike and its platform. The Company is the manager of the Falcon Funds and controls the investment decisions and day-to-day operations and accordingly has consolidated each of the Falcon Funds. Each Falcon Fund has a duration of
+ten years
+and may be extended for
+three
+additional years. At dissolution, the Falcon Funds will be liquidated, and the remaining assets will be distributed to the investors based on their respective sharing percentage.
+The Company elected the measurement alternative for the non-marketable equity investments of the Falcon Funds where eligible. Under the measurement alternative, the non-marketable equity investments are measured at cost, less any impairment, plus or minus adjustments resulting from price changes from observable transactions of identical or similar securities of the same issuer. All gains and losses on strategic investments, realized and unrealized, are recognized in other income (expense), net. Strategic investments are classified within Level 3 in the fair value hierarchy as these investments do not have readily determinable market values. The carrying amount of strategic investments is adjusted based on observable price changes from observable transactions of identical or similar securities of the same issuer and other unobservable inputs including volatility, rights, and obligations of the investments, or by impairments when identified events and circumstances indicate a decline in value has occurred. The Company classifies the investments in the Falcon Funds as a non-current asset called strategic investments on the consolidated balance sheets.
+Business Combinations
+The Company allocates the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition date. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. The purchase price allocation process requires management to make significant estimates and assumptions with respect to intangible assets. Although the Company believes the assumptions and estimates it has made are reasonable, they are based in part on historical experience, market conditions, and information obtained from management of the acquired companies and are inherently uncertain. Examples of judgments used to estimate the fair value of intangibles assets include, but are not limited to, future expected cash flows, expected customer attrition rates, estimated obsolescence rates, and discount rates. These estimates are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates. During the measurement period, which is one year from the acquisition date, the Company may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded in the consolidated statements of operations.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Goodwill and Intangible Assets
+The Company evaluates and tests goodwill for impairment at least annually, on January 31, or more frequently if circumstances indicate that goodwill may not be recoverable. A qualitative assessment is performed to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of its
+one
+reporting unit is less than its carrying value. In assessing the qualitative factors, the Company considers the impact of certain key factors including macroeconomic conditions, industry and market considerations, management turnover, changes in regulation, litigation matters, changes in enterprise value, and overall financial performance. If the Company determines it is more likely than not that the fair value of its
+one
+reporting unit is less than its carrying value, a quantitative test is performed by estimating the fair value of its reporting unit, including goodwill, and comparing it to its carrying value. If the fair value is lower than the carrying value, the excess is recognized as an impairment loss.
+No
+impairment losses were recorded during the fiscal years ended January 31, 2025, January 31, 2024, or January 31, 2023. See Note 4, Balance Sheet Components, and Note 12, Acquisitions, to the consolidated financial statements for more information.
+Acquired intangible assets mainly consisting of developed technology, customer relationships, intellectual property and other acquired intangible assets are stated at fair value at the acquisition date and are amortized on a straight-line basis over their estimated economic lives, which are generally
+one
+to
+years. The Company reviews the carrying amounts of intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets may not be recoverable. The impairment to be recognized equals the amount by which the carrying value of the asset exceeds its fair value. No impairment indicators were identified by the Company, and
+no
+impairment losses were recorded by the Company during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023.
+Property and Equipment, Net
+Property and equipment, net, is stated at historical cost less accumulated depreciation and amortization. Depreciation and amortization are calculated using the straight-line method over the estimated useful lives of the assets as follows:
+Expenditures for routine maintenance and repairs are charged to operating expense as incurred. Major renewals and improvements are capitalized and depreciated over their estimated useful lives.
+The Company reviews for impairment of long-lived assets whenever events or changes in circumstances indicate that the carrying amount of the asset (or asset group) may not be recoverable. Events and changes in circumstances considered by the Company in determining whether the carrying value of long-lived assets may not be recoverable, include, but are not limited to, significant changes in performance relative to expected operating results, significant changes in the use of the assets, significant negative industry or economic trends, and changes in the Company’s business strategy. Impairment testing is performed at an asset level that represents the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities (an “asset group”). An impairment loss would be recognized when estimated future cash flows expected to result from the use of the asset (or asset group) and its eventual disposition are less than its carrying amount. No impairment indicators were identified by the Company, and
+no
+impairment losses were recorded by the Company during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Capitalized Internal-Use Software and Website Development Costs
+The Company capitalizes certain development costs incurred in connection with its internal-use software and website development. These capitalized costs are primarily related to the Company’s cybersecurity platform, as well as redefining, redesigning, and rebuilding crowdstrike.com. Costs incurred in the preliminary stages of development are expensed as incurred. Once an application has reached the development stage, internal and external costs, if direct, are capitalized until the internal-use software and website are substantially complete and ready for their intended use. The Company contracts with third party information technology providers for various service arrangements including software, platform, and information technology infrastructure. The Company capitalizes the implementation costs incurred to develop or obtain internal-use software in such arrangements, which are recorded as part of property and equipment, net in the consolidated balance sheets. All capitalized implementation costs are amortized over the term of the arrangement, which includes reasonably certain renewals. Costs incurred during the preliminary project and post-implementation stages are expensed as the activities are performed.
+Capitalization ceases upon completion of all substantial testing. The Company also capitalizes costs related to specific upgrades and enhancements when it is probable the expenditures will result in additional functionality. Capitalized costs are recorded as property and equipment, net. Maintenance and training costs are expensed as incurred. Internal-use software and website development costs are amortized to cost of revenue on a straight-line basis over its estimated useful life of
+three years
+.
+Management evaluates the useful lives of these assets on an annual basis and tests for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets.
+Deferred Contract Acquisition Costs
+Under ASC 340-40, Other Assets and Deferred Costs - Contracts with Customers, the Company capitalizes contract acquisition costs that are incremental to the acquisition of customer contracts. Contract acquisition costs are accrued and capitalized upon execution of the sales contract by the customer. Sales commissions for renewal of a contract are not considered commensurate with the commissions paid for the acquisition of the initial contract or follow-on upsell given the substantive difference in commission rates in proportion to their respective contract values. Commissions, including referral fees paid to referral partners, earned upon the initial acquisition of a contract or subsequent upsell are amortized over an estimated period of benefit of
+four years
+, while commissions earned for renewal contracts are amortized over the contractual term of the renewals. Sales commissions associated with professional service contracts are amortized ratably over an estimated period of benefit of
+five months
+.
+Deferred Revenue
+The deferred revenue balance consists of subscription and professional services, which have been invoiced upfront, and are recognized as revenue only when the revenue recognition criteria are met. The Company’s subscription contracts are typically invoiced to its customers at the beginning of the term, or in some instances, such as in multi-year arrangements, in installments. Professional services are invoiced upfront, invoiced in installments, or invoiced as the services are performed. Accordingly, the Company’s deferred revenue balance does not include revenue for future years of multi-year non-cancellable contracts that have not yet been billed.
+The Company recognizes subscription revenue ratably over the contract term beginning on the commencement date of each contract, the date that services are made available to customers. The Company recognizes professional services revenue as services are delivered. Once services are available to customers, the Company records amounts due in accounts receivable and in deferred revenue. To the extent the Company bills customers in advance of the contract commencement date, the accounts receivable and corresponding deferred revenue amounts are netted to zero on the consolidated balance sheets, unless such amounts have been paid as of the balance sheet date.
+Revenue Recognition
+In accordance with ASU 2014-09, Revenue from Contracts with Customers (“ASC 606”), revenue is recognized when a customer obtains control of promised services. The amount of revenue recognized reflects the consideration that the Company expects to be entitled to receive in exchange for these services. To achieve the core principle of this standard, the Company applies the following five steps:
+(1)
+Identify the contract with a customer
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company considers the terms and conditions of contracts with customers and its customary business practices in identifying contracts under ASC 606. The Company determines it has a contract with a customer when the contract is approved, each party’s rights regarding the services to be transferred can be identified, payment terms for the services can be identified, it has been determined that the customer has the ability and intent to pay, and the contract has commercial substance. The Company applies judgment in determining the customer’s ability and intent to pay, which is based on a variety of factors, including the customer’s historical payment experience or, in the case of a new customer, credit and financial information pertaining to the customer.
+(2)
+Identify the performance obligations in the contract
+Performance obligations promised in a contract are identified based on the services that will be transferred to the customer that are both capable of being distinct, whereby the customer can benefit from the service either on its own or together with other resources that are readily available from the Company or from third parties, and are distinct in the context of the contract, whereby the transfer of the services is separately identifiable from other promises in the contract. The Company’s performance obligations consist of (i) subscriptions and (ii) professional services.
+(3)
+Determine the transaction price
+The transaction price is determined based on the consideration to which the Company is expected to be entitled in exchange for transferring services to the customer. Variable consideration is included in the transaction price if it is probable that a significant future reversal of cumulative revenue under the contract will not occur. None of the Company’s contracts contain a significant financing component.
+(4)
+Allocate the transaction price to performance obligations in the contract
+If the contract contains a single performance obligation, the entire transaction price is allocated to the single performance obligation. Contracts that contain multiple performance obligations require an allocation of the transaction price to each performance obligation based on a relative standalone selling price (“SSP”).
+(5)
+Recognize revenue when or as performance obligations are satisfied
+Revenue is recognized at the time the related performance obligation is satisfied by transferring the promised service to the customer. Revenue is recognized when control of the services is transferred to the customer, in an amount that reflects the consideration expected to be received in exchange for those services. The Company generates all its revenue from contracts with customers.
+Subscription Revenue
+The Company’s Falcon Platform technology solutions are subscription SaaS offerings designed to continuously monitor, share, and mitigate risks from determined attackers. Subscription revenues are primarily comprised of fees that give customers access to the ordered service, related support, and updates, if any, during the subscription term. Customers do not have the right to take possession of the cloud-based software platform. Fees are based on several factors, including the solutions subscribed for by the customer and the number of endpoints purchased by the customer. The subscription fees are typically payable within
+to
+days after the execution of the arrangement, and thereafter upon renewal or subsequent installment. The Company initially records the subscription fees as deferred revenue and recognizes revenue on a straight-line basis over the term of the agreement.
+The typical subscription term is
+one
+to
+three years
+. The Company’s contracts with customers typically include a fixed amount of consideration and are generally non-cancellable and without any refund-type provisions. Customers typically have the right to terminate their contracts for cause if the Company fails to perform in accordance with the contractual terms. Some customers have the option to purchase additional subscription at a stated price. These options generally do not provide a material right as they are priced at the Company’s SSP.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Professional Services Revenue
+The Company offers several types of professional services including incident response and forensic services, surge forensic and malware analysis, and attribution analysis, which are focused on responding to imminent and direct threats, assessing vulnerabilities, and recommending solutions. These services are distinct from subscription services. Professional services do not result in significant customization of the subscription service. The Company’s professional services are available through time and material and fixed fee agreements. Revenue for time and material agreements is recognized as services are performed. Fixed fee contracts account for an immaterial portion of the Company’s revenue.
+Contracts with Multiple Performance Obligations
+Some contracts with customers contain multiple promised services consisting of subscription and professional services that are distinct and accounted for separately. The transaction price is allocated to the separate performance obligations on a relative SSP basis. The SSP is the price at which the Company would sell promised subscription or professional services separately to a customer. Judgment is required to determine the SSP for each distinct performance obligation. The Company determines SSP based on its overall pricing objectives, taking into consideration the type of subscription or professional service and the number of endpoints.
+Variable Consideration
+Revenue from sales is recorded at the net sales price, which is the transaction price, and may include estimates of variable consideration. The amount of variable consideration that is included in the transaction price is constrained and is included in the net sales price only to the extent that it is probable that a significant reversal in the amount of the cumulative revenue will not occur when the uncertainty is resolved.
+If subscriptions do not meet certain service level commitments, the Company’s customers are entitled to receive service credits, and in certain cases, refunds, each representing a form of variable consideration. The Company has historically not experienced any significant incidents affecting the defined levels of reliability and performance as required by its subscription contracts. Accordingly, any estimated refunds related to these agreements in the consolidated financial statements is not material during the periods presented.
+The Company provides rebates and other credits within its contracts with certain resellers, which are estimated based on the expected value to be earned or claimed on the related sales transaction. Overall, the transaction price is reduced to reflect the Company’s estimate of the amount of consideration to which it is entitled based on the terms of the contract. Estimated rebates and other credits were not material during the periods presented.
+Research and Development Expense
+Research and development costs are expensed when incurred, except for certain internal-use software development costs, which may be capitalized as noted above. Research and development expenses consist primarily of personnel and related headcount costs, stock-based compensation expenses, costs of professional services associated with the ongoing development of the Company’s technology, and allocated overhead.
+Advertising
+Most advertising costs are expensed as incurred, except for certain production costs that are deferred and expensed at the time the advertising first takes place.
+The Company incurred $
+118.1
+million, $
+79.9
+million, and $
+53.8
+million of advertising costs during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+Stock-Based Compensation
+Compensation related to stock-based awards to employees and directors is measured and recognized in the Company’s consolidated statements of operations based on the fair value of the awards granted. The Company estimates the fair value of its stock options using the Black-Scholes option-pricing model. The stock-based compensation expense relating to stock options is recognized on a straight-line basis over the period during which the employee or director is required to provide service in exchange for the award, usually the vesting period, which is generally
+four years
+.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Restricted stock units (“RSUs”) are generally subject to a service-based vesting condition. The service-based vesting condition is generally
+four years
+. The valuation of these RSUs is based solely on the Company’s stock price on the date of grant, and the corresponding compensation expense is amortized on a straight-line basis.
+Performance-based stock units (“PSUs”) are generally subject to both a service-based vesting condition and a performance-based vesting condition. The fair value of the award is equal to the Company’s stock price on the date of grant. PSUs generally vest over a
+four-year
+period, subject to continued service through the applicable vesting dates. The stock-based compensation expense relating to PSUs is recognized using the accelerated attribution method over the requisite service period when it is probable that the performance condition will be satisfied.
+The Special PSU Awards are subject to the Company’s achievement of specified stock price hurdles and a service-based vesting condition. The Company measured the fair value of the Special PSU Awards using a Monte Carlo simulation valuation model. The stock-based compensation expense relating to the Special PSU Awards is recognized using the accelerated attribution method over the longer of the derived service period and the explicit service period.
+Employee Stock Purchase Plan (“ESPP”) grants are measured based on the fair value at grant date using the Black-Scholes option-pricing model. The resulting stock-based compensation expense is recognized using the accelerated attribution method over a
+two-year
+offering period and is accounted for as having four separate tranches starting on the same initial enrollment date. The requisite service periods for the four tranches are approximately
+,
+,
+, and
+months.
+The Company accounts for forfeitures as they occur for all stock-based awards.
+Deferred Compensation
+In December 2022, the board of directors approved the CrowdStrike Inc. Deferred Compensation Plan (the “Plan”), effective January 1, 2023. The Plan is a non-qualified, deferred compensation arrangement that permits eligible employees to make
+% vested salary and incentive compensation deferrals within established limits. The Company does not make contributions to the Plan.
+The Plan’s assets consist of marketable securities held in a Rabbi Trust and are included in other long-term assets in the consolidated balance sheets because they are intended to fund the Plan’s long-term liabilities. They are not available for use in the Company’s daily operations and are not intended to be sold within a short period of time after purchase. The marketable securities were recorded at fair value based on quoted market prices and were $
+5.5
+million and $
+2.3
+million as of January 31, 2025 and January 31, 2024, respectively. The deferred compensation liability was $
+5.5
+million and $
+2.3
+million as of January 31, 2025 and January 31, 2024, respectively, and is included in other liabilities, noncurrent in the consolidated balance sheets. Gains and losses on deferred compensation investments are included in other income (expense), net, and corresponding changes in the deferred compensation liability are included in operating expenses and cost of revenue. Changes in the fair value of the deferred compensation asset and liability were immaterial for the fiscal years ended January 31, 2025 and January 31, 2024.
+Operating Leases
+The Company enters into operating lease arrangements for real estate assets related to office space. The Company determines if an arrangement is or contains a lease at inception by evaluating various factors, including whether a vendor’s right to substitute an identified asset is substantive. Lease classification is determined at the lease commencement date, which is the date the leased assets are made available for use. Operating leases are included in operating lease right-of-use assets, operating lease liabilities, current, and operating lease liabilities, noncurrent in the consolidated balance sheets. The Company did not have any financing leases in any of the periods presented.
+Operating lease right-of-use assets and lease liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term. Lease payments consist of the fixed payments under the arrangement, less any lease incentives, such as tenant improvement allowances. Variable costs, such as maintenance and utilities based on actual usage, are not included in the measurement of right-to-use (“ROU”) assets and lease liabilities but are expensed when the event determining the amount of variable consideration to be paid occurs. As the implicit rate of the leases is not determinable, the Company uses an incremental borrowing rate (“IBR”) based on the information available at the lease commencement date in determining the present value of lease payments. Lease expenses are recognized on a straight-line basis over the lease term.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company uses the non-cancellable lease term when recognizing the ROU assets and lease liabilities, unless it is reasonably certain that a renewal or termination option will be exercised. The Company accounts for the lease and non-lease components as a single lease component.
+Leases with a term of twelve months or less are not recognized on the consolidated balance sheets but are recognized as expense on a straight-line basis over the term of the lease.
+Debt Issuance Costs
+Debt issuance costs incurred in connection with securing the Company’s financing arrangements are generally presented in the consolidated balance sheets as a direct deduction from the carrying amount of the outstanding borrowings, consistent with debt discounts. However, the Company has chosen to present debt issuance costs under other long-term assets for its revolving credit facility on the consolidated balance sheets regardless of whether the Company has any outstanding borrowings on the revolving credit facility. Debt issuance costs, net of accumulated amortization, were $
+2.9
+million and $
+4.0
+million as of January 31, 2025 and January 31, 2024, respectively. Debt issuance costs associated with the Senior Notes are recorded as a reduction to the carrying value of the Senior Notes on the consolidated balance sheets. The unamortized issuance costs relating to the Senior Notes were $
+1.3
+million and $
+1.6
+million as of January 31, 2025 and January 31, 2024, respectively.
+All deferred financing costs are amortized to interest expense. The effective interest method is used for debt issuance costs related to the Senior Notes. Debt issuance costs related to the revolving credit facility are amortized over the term of the financing arrangement under the straight-line method. The Company’s amortization of these costs was $
+2.2
+million, $
+1.6
+million, and $
+1.3
+million for the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+Foreign Currency Translation and Transactions
+The functional currencies of the Company’s foreign subsidiaries are generally the country’s local currency. Assets and liabilities of the subsidiaries are translated into U.S. Dollars at exchange rates in effect at the reporting date. Amounts classified in stockholders’ equity (deficit) are translated at historical exchange rates. Revenue and expenses are translated at the average exchange rates during the period. The resulting translation adjustments are recorded in accumulated other comprehensive income (loss). Foreign currency transaction gains or losses, whether realized or unrealized, are reflected in the consolidated statements of operations within other income (expense), net, and have not been material for all periods presented.
+Income Taxes
+The Company accounts for income taxes using the asset and liability method. Under this method, deferred tax assets and liabilities are determined based on differences between the financial statement and tax basis of assets and liabilities and net operating loss and credit carryforwards using enacted tax rates in effect for the year in which the differences are expected to reverse. Valuation allowances are established when necessary to reduce deferred tax assets to the amounts expected to be realized.
+The Company accounts for unrecognized tax benefits using a more-likely-than-not threshold for financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. The Company establishes a liability for tax-related uncertainties based on estimates of whether, and the extent to which, additional taxes will be due. The Company’s assumptions, judgments, and estimates relative to the current provision for income taxes take into account current tax laws, the Company’s interpretation of current tax laws, and possible outcomes of current and future audits conducted by foreign and domestic tax authorities. The Company has established reserves for income taxes to address potential exposures involving tax positions that could be challenged by tax authorities. In addition, the Company is subject to the continual examination of its income tax returns by the U.S. Internal Revenue Service (“IRS”) and other domestic and foreign tax authorities. The Company regularly assesses the likelihood of outcomes resulting from these examinations to determine the adequacy of its provision for income taxes and have reserved for potential adjustments that may result from such examinations. The Company believes such estimates to be reasonable; however, the final determination of any of these examinations could significantly impact the amounts provided for income taxes in the Company’s consolidated financial statements.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Net Income (Loss) per Share
+The Company computes basic and diluted net income (loss) per share attributable to common stockholders for Class A and Class B common stock using the two-class method required for participating securities. Under the two-class method, basic net income (loss) per share attributable to common stockholders is computed by dividing the net income (loss) attributable to common stockholders by the weighted-average number of shares of common stock outstanding during the period. On December 11, 2024, all of the Company’s outstanding shares of Class B common stock were automatically converted into an equal number of shares of Class A common stock pursuant to the provisions of the Amended and Restated Certificate of Incorporation.
+Diluted earnings per share attributable to common stockholders adjusts basic earnings per share for the potentially dilutive impact of outstanding stock options, RSUs, PSUs, Special PSUs, ESPP obligations, and founder holdbacks. The dilutive potential shares are computed using the treasury stock method. The effects of the outstanding stock options, RSUs, PSUs, Special PSUs, ESPP obligations, and founders holdbacks are excluded from the computation of the diluted earnings per share in periods in which the effect would be anti-dilutive.
+Recently Adopted Accounting Pronouncements
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. The standard requires disclosure of significant segment expenses that are regularly provided to the Chief Operating Decision Maker (“CODM”) and included within each reported measure of segment profit or loss, an amount for other segment items required to reconcile the difference between segment revenue and segment expenses to segment profit or loss along with a description of their composition, and the title and position of the entity’s CODM. The update also expands interim segment disclosure requirements. The new standard is effective for annual periods beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. The Company adopted this guidance during the year ended January 31, 2025. See Note 14, Segment Information for further details.
+Recently Issued Accounting Pronouncements
+In November 2024, the FASB issued ASU 2024-03, Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures. The standard requires additional disclosure of specific expense categories included in the expense captions presented on the statements of operations. The new standard can be applied either prospectively or retrospectively, and is effective for annual periods beginning after December 15, 2026 and interim reporting periods within annual reporting periods beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the impact of this new guidance on its disclosures within the consolidated financial statements.
+In December 2023, the FASB issued ASU 2023-09, Improvements to Income Tax Disclosures, a final standard on improvements to income tax disclosures. The standard requires disaggregated information about a reporting entity’s effective tax rate reconciliation, as well as information on income taxes paid. The standard is intended to benefit investors by providing more detailed income tax disclosures that would be useful in making capital allocation decisions and applies to all entities subject to income taxes. The new standard is effective for annual periods beginning after December 15, 2024. The Company does not expect the adoption of this new guidance to have a material impact on its disclosures within the consolidated financial statements.
+2.
+Investments and Fair Value Measurements
+The Company follows ASC 820, Fair Value Measurements, with respect to cash equivalents, short-term investments, and deferred compensation investments that are measured at fair value on a recurring basis. Under the standard, fair value is defined as the exit price, or the amount that would be received to sell an asset or a liability in an orderly transaction between market participants as of the measurement date. The standard also establishes a hierarchy for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs by requiring that the most observable inputs be used when available. Observable inputs are inputs market participants would use in valuing the asset or liability based on market data obtained from sources independent of the Company. Unobservable inputs are inputs that reflect the Company’s assumptions about the factors market participants would use in valuing the asset or liability based upon the best information available in the circumstances.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The hierarchy is broken down into three levels as follows:
+Level 1    Assets and liabilities whose values are based on unadjusted quoted market prices for identical assets and liabilities in active markets
+Level 2    Assets and liabilities whose values are based on quoted prices in markets that are not active or inputs that are observable for substantially the full term of the asset or liability
+Level 3    Assets and liabilities whose values are based on prices or valuation techniques that require inputs that are both unobservable and significant to the overall fair value measurement
+Categorization within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+The Company’s fair value hierarchy for its financial assets and liabilities that are measured at fair value on a recurring basis are as follows (in thousands):
+There were no transfers between the levels of the fair value hierarchy during the periods presented.
+As of January 31, 2025, and January 31, 2024, the Company’s U.S. Treasury securities are carried at fair value, and there were no material realized or unrealized gains or losses, either individually or in aggregate.
+The total estimated fair value of the Company’s financing receivables approximates their carrying amounts as of January 31, 2025. The fair value of the Company's financing receivables is considered to be a Level 3 measurement as unobservable inputs are used in determining discounted cash flows to estimate fair value.
+Strategic Investments
+The Company’s investments in privately held securities as of January 31, 2025, consisted of the following (in thousands):
+The Company’s investments in privately held securities as of January 31, 2024, consisted of the following (in thousands):
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+As of January 31, 2025, the cumulative net gains of $
+3.4
+million are comprised of upward adjustments of $
+7.3
+million, less downward adjustments and impairment of $
+3.9
+million. As of January 31, 2024, the cumulative net gains of $
+4.9
+million are comprised of upward adjustments of $
+9.3
+million, less downward adjustments and impairment of $
+4.4
+million.
+Gains and Losses on Strategic Investments
+The components of gains and losses on strategic investments were as follows (in thousands):
+Unrealized gains recognized on privately held equity securities includes upward adjustments from equity securities accounted for under the measurement alternative while unrealized losses recognized on privately held equity securities includes downward adjustments and impairment.
+Realized gains and losses recognized on sales of privately held equity securities reflects the difference between the sale proceeds and the carrying value of the security at the beginning of the period or the purchase date, if later.
+3.
+Financing Receivables
+The Company’s short-term and long-term financing receivables were as follows (in thousands):
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company’s amortized cost basis of financing receivables categorized by internal risk rating and year of origination was as follows (in thousands):
+(1)
+Internal risk ratings are determined based on the end-user’s financial condition and are categorized as 1 through 9, with the lowest rating representing the highest quality.
+There were no financing receivables prior to fiscal year ended January 31, 2025.
+There was no significant activity in allowance for credit losses during the year ended January 31, 2025. Past due amounts on financing receivables were not material as of January 31, 2025.
+4.
+Balance Sheet Components
+Prepaid Expenses and Other Current Assets
+Prepaid expenses were $
+247.3
+million and $
+144.9
+million as of January 31, 2025 and January 31, 2024, respectively. Other current assets were $
+67.1
+million and $
+38.3
+million as of January 31, 2025 and January 31, 2024, respectively.
+Property and Equipment, Net
+Property and equipment, net consisted of the following (in thousands):
+Construction in progress primarily includes data center equipment purchased that has not yet been placed in service. Data center equipment that was purchased but not yet been placed into service was $
+180.1
+million and $
+167.5
+million as of January 31, 2025 and January 31, 2024, respectively.
+Depreciation and amortization expense of property and equipment was $
+188.0
+million, $
+126.8
+million, and $
+77.2
+million, during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+The Company capitalized $
+91.9
+million, $
+77.9
+million, and $
+49.3
+million in internal-use software and website development costs during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+Amortization expense associated with internal-use software and website development costs totaled $
+54.8
+million, $
+37.3
+million, and $
+21.5
+million during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively. The net book
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+value of capitalized internal-use software and website development costs was $
+144.0
+million and $
+106.9
+million as of January 31, 2025 and January 31, 2024, respectively.
+Intangible Assets, Net
+Total intangible assets, net consisted of the following (dollars in thousands):
+Amortization expense of intangible assets was $
+26.0
+million, $
+18.4
+million, and $
+16.6
+million, during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+The estimated aggregate future amortization expense of intangible assets as of January 31, 2025 was as follows (in thousands):
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Goodwill
+The change in goodwill during the fiscal year ended January 31, 2025 consisted of the following (in thousands):
+(1)
+Goodwill acquired resulted from the acquisitions of Flow Security and A.S. Adaptive Shield Ltd. Refer to Note 12 for additional information.
+Accrued Payroll and Benefits
+Accrued payroll and benefits consisted of the following (in thousands):
+5.
+Debt
+Secured Revolving Credit Facility
+In April 2019, the Company entered into a Credit Agreement with Silicon Valley Bank and other lenders, to provide a revolving line of credit of up to $
+150.0
+million, including a letter of credit sub-facility in the aggregate amount of $
+10.0
+million, and a swingline sub-facility in the aggregate amount of $
+10.0
+million.
+On January 4, 2021, the Company amended and restated its existing credit agreement (the “A&R Credit Agreement” and the facility thereunder the “Revolving Facility”) among CrowdStrike, Inc., as borrower, CrowdStrike Holdings, Inc., as guarantor, and Silicon Valley Bank and the other lenders party thereto, providing the Company with a revolving line of credit of up to $
+750.0
+million, including a letter of credit sub-facility in the aggregate amount of $
+100.0
+million, and a swingline sub-facility in the aggregate amount of $
+50.0
+million. The Company also has the option to request an incremental facility of up to an additional $
+250.0
+million from one or more of the lenders under the A&R Credit Agreement. The A&R Credit Agreement is guaranteed by all of the Company’s material domestic subsidiaries. The A&R Credit Agreement extended the maturity date of April 19, 2022 to January 2, 2026.
+On January 6, 2022, the Company modified the A&R Credit Agreement (the “Amended A&R Credit Agreement”) among CrowdStrike, Inc., as borrower, CrowdStrike Holdings, Inc., as guarantor, and Silicon Valley Bank and the other lenders party thereto. There were no changes to the borrowing amounts or maturity date. Under the Amended A&R Credit Agreement, revolving loans are Alternate Base Rate (“ABR”) Loans. Outstanding ABR Loans incur interest at the highest of (a) the Prime Rate, as published by the Wall Street Journal, (b) the federal funds rate in effect on such day plus
+0.50
+%, and (c) the Term Secured Overnight Finance Rate (the “Term SOFR”) for a one-month tenor in effect on such day plus
+1.00
+%, in each case plus a margin between (
+0.25
+)% and
+0.25
+%, depending on the senior secured leverage ratio. The Company will be charged a commitment fee of
+0.15
+% to
+0.25
+% per year for committed but unused amounts, depending on the senior secured leverage ratio. The financial covenants require the Company to maintain a
+minimum consolidated interest coverage ratio of
+3.00
+:1.00 and a maximum total leverage ratio of
+5.50
+:1.00 stepping down to
+3.50
+:1.00 over time. The Company was in compliance with all of its financial covenants as of January 31, 2025.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Amended A&R Credit Agreement is secured by substantially all of the Company’s current and future consolidated assets, property and rights, including, but not limited to, intellectual property, cash, goods, equipment, contractual rights, financial assets, and intangible assets of the Company and certain of its subsidiaries. The Amended A&R Credit Agreement contains customary covenants limiting the Company’s ability and the ability of its subsidiaries to, among other things, dispose of assets, undergo a change in control, merge or consolidate, make acquisitions, incur debt, incur liens, pay dividends, repurchase stock, and make investments, in each case subject to certain exceptions.
+No
+amounts were outstanding under the Amended A&R Credit Agreement as of January 31, 2025.
+Senior Notes
+On January 20, 2021, the Company issued $
+750.0
+million in aggregate principal amount of
+3.00
+% Senior Notes maturing in February 2029 (the “Senior Notes”). The Senior Notes are guaranteed by the Company’s subsidiaries, CrowdStrike, Inc. and CrowdStrike Financial Services, Inc., and will be guaranteed by each of the Company’s existing and future domestic subsidiaries that becomes a borrower or guarantor under the A&R Credit Agreement. The Senior Notes were issued at par and bear interest at a rate of
+3.00
+% per annum. Interest payments are payable semiannually on February 15 and August 15 of each year, commencing on August 15, 2021. The Company may voluntarily redeem the Senior Notes, in whole or in part, 1) at any time prior to February 15, 2024 at (a)
+100.00
+% of their principal amount, plus a “make whole” premium or (b) with the net cash proceeds received from an equity offering at a redemption price equal to
+103.00
+% of the principal amount, provided the aggregate principal amount of all such redemptions does not exceed
+% of the original aggregate principal amount of the Senior Notes; 2) at any time on or after February 15, 2024 at a prepayment price equal to
+101.50
+% of the principal amount; 3) at any time on or after February 15, 2025 at a prepayment price equal to
+100.75
+% of the principal amount; and 4) at any time on or after February 15, 2026 at a prepayment price equal to
+100.00
+% of the principal amount; in each case, plus accrued and unpaid interest, if any, to but excluding, the date of redemption.
+The net proceeds from the debt offering were $
+738.0
+million after deducting the underwriting commissions of $
+9.4
+million and $
+2.6
+million of issuance costs. The debt issuance costs are being amortized to interest expense using the effective interest method over the term of the Senior Notes. Interest expense related to contractual interest expense, amortization of debt issuance costs, and accretion of debt discount was $
+24.0
+million during both fiscal years ended January 31, 2025 and January 31, 2024.
+In certain circumstances involving a change of control event, the Company will be required to make an offer to repurchase all or, at the holder’s option, any part, of each holder’s notes of that series at
+% of the aggregate principal amount thereof, plus accrued and unpaid interest, if any, to, but excluding, the repurchase date.
+The indenture governing the Senior Notes (the “Indenture”) contains covenants limiting the Company’s ability and the ability of its subsidiaries to create liens on certain assets to secure debt; grant a subsidiary guarantee of certain debt without also providing a guarantee of the Senior Notes; declare dividends; and consolidate or merge with or into, or sell or otherwise dispose of all or substantially all of its assets to, another person. These covenants are subject to a number of limitations and exceptions. Certain of these covenants will not apply during any period in which the notes are rated investment grade by Fitch Ratings, Inc. (“Fitch”), Moody’s Investors Service, Inc. (“Moody’s”), and Standard & Poor’s Ratings Services (“S&P”).
+As of January 31, 2025, the Company was in compliance with all of its financial covenants under the Indenture associated with the Senior Notes.
+Based on the trading prices of the Senior Notes, the fair value of the Senior Notes was approximately $
+688.4
+million and $
+671.2
+million as of January 31, 2025 and January 31, 2024, respectively. While the Senior Notes are recorded at cost, the fair value of the Senior Notes was determined based on quoted prices in markets that are not active; accordingly, the Senior Notes are categorized as Level 2 for purposes of the fair value measurement hierarchy.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+6.
+Income Taxes
+The Company’s geographical breakdown of its income (loss) before provision for income taxes for the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023 is as follows (in thousands):
+The components of the provision for income taxes during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023 are as follows (in thousands):
+The following table provides a reconciliation between income taxes computed at the federal statutory rate and the provision for income taxes during the fiscal years ended January 31, 2025
+,
+January 31, 2024, and January 31, 2023 (in thousands):
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company recognized income tax expense of $
+71.1
+million, $
+32.2
+million, and $
+22.4
+million for the fiscal years January 31, 2025, January 31, 2024 and January 31, 2023, respectively. The tax expense for the fiscal year ended January 31, 2025 was primarily attributable to pre-tax foreign earnings, withholding taxes related to customer payments in certain foreign jurisdictions, intercompany sale of intellectual property from acquired entities and change in the realizability of deferred tax assets in certain foreign jurisdictions. The Company transferred acquired intellectual property from foreign subsidiaries to the U.S. Although the transfer of the intellectual property between consolidated entities did not result in any gain in the consolidated statement of operations, such transactions were taxable for tax purposes. The tax expense for the fiscal years ended January 31, 2024 and January 31, 2023 was primarily attributable to pre-tax foreign earnings and withholding taxes related to customer payments in certain foreign jurisdictions and intercompany sales of intellectual property from acquisitions.
+Deferred income taxes reflect the net tax effects of temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
+Significant components of the Company’s deferred tax assets and liabilities as of January 31, 2025 and January 31, 2024 are as follows (in thousands):
+The Company maintains a full valuation allowance on U.S. federal and state and certain foreign deferred tax assets, including net operating loss carryforwards and tax credits, which the Company has determined are not realizable on a more-likely-than-not basis. In completing the assessment of the continued need for valuation allowance, we analyzed various factors including, but not limited to, cumulative pre-tax losses, excess tax benefits related to stock-based compensation, future reversal of existing temporary differences and tax planning strategies that are prudent and feasible. During the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, the valuation allowance increased by $
+234.7
+million, $
+47.6
+million, and $
+139.2
+million, respectively. The increases in the valuation allowance during the fiscal years ended January 31, 2025 and January 31, 2024 were primarily driven by U.S. operations. As of January 31, 2025, January 31, 2024, and January 31, 2023 the valuation allowance for deferred taxes was $
+1.2
+billion, $
+957.7
+million, and $
+910.1
+million, respectively.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+As of January 31, 2025, the Company had aggregate federal and California net operating loss carryforwards of $
+1.4
+billion and $
+307.9
+million, respectively, which may be available to offset future taxable income for income tax purposes. The federal net operating losses are carried forward indefinitely, and California net operating loss carryforwards begin to expire in fiscal 2034 through fiscal 2045. As of January 31, 2025, net operating loss carryforwards for other states totaled $
+716.0
+million, which begin to expire in fiscal 2026 through fiscal 2045. As of January 31, 2025, net operating loss carryforwards for the U.K. totaled $
+78.0
+million, which are carried forward indefinitely, and net operating loss carryforwards totaled immaterial amounts in certain foreign jurisdictions.
+As of January 31, 2025, the Company had federal and California research and development (“R&D”) credit carryforwards of $
+165.1
+million and $
+39.6
+million, respectively. The federal R&D credit carryforwards begin to expire in fiscal 2037 though fiscal 2045. The California R&D credits are carried forward indefinitely.
+The Internal Revenue Code imposes limitations on a corporation’s ability to utilize net operating loss (“NOLs”) and credit carryovers if it experiences an ownership change as defined in Section 382. In general terms, an ownership change may result from transactions increasing the ownership of certain stockholders in the stock of a corporation by more than 50% over a three-year period. If an ownership change has occurred, or were to occur, utilization of the Company’s NOLs and credit carryovers could be restricted. The Company’s net operating losses and credit carryovers are not currently subject to a limitation due to an ownership change.
+Total gross unrecognized tax benefits as of January 31, 2025, January 31, 2024, and January 31, 2023 were $
+117.5
+million, $
+58.9
+million, and $
+36.9
+million, respectively. As of January 31, 2025, the Company had $
+54.8
+million of unrecognized tax benefits, which, if recognized, would affect the Company’s effective tax rate due to the full valuation allowance. The Company’s policy is to classify interest and penalties related to unrecognized tax benefits as part of the income tax provision in the consolidated statements of operations. Cumulatively, the Company had incurred $
+3.0
+million of interest and penalties related to unrecognized tax benefits as of January 31, 2025, and $
+1.4
+million and an insignificant amount of interest and penalties related to unrecognized tax benefits as of January 31, 2024, and January 31, 2023, respectively. During the fiscal year ended January 31, 2025, the net increase in unrecognized tax benefits was a result of certain taxable foreign transactions and R&D credits. During the fiscal year ended January 31, 2024, and January 31, 2023 the net increase in unrecognized tax benefits was a result of R&D credits. The potential change in unrecognized tax benefits during the next 12 months is not expected to be material.
+The following is a rollforward of the total gross unrecognized tax benefits for the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023 (in thousands):
+The Company files income tax returns in the U.S. federal, foreign, and various state jurisdictions. Tax years 2011 and onwards remain subject to examination by taxing authorities.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company does not provide for federal and state income taxes on the undistributed earnings of its foreign subsidiaries as such earnings are to be reinvested offshore indefinitely. If the Company repatriated these earnings, the tax impact of future distributions of foreign earnings would generally be limited to withholding tax from foreign jurisdictions, and the resulting income tax liability would be insignificant.
+7.
+Leases
+Operating Leases
+The Company has entered into non-cancellable operating lease agreements with various expiration dates through fiscal 2033. Certain lease agreements include options to renew or terminate the lease, which are not reasonably certain to be exercised and therefore are not factored into the determination of lease payments.
+Cash paid for amounts included in the measurement of operating lease liabilities was $
+19.5
+million, $
+15.4
+million, and $
+12.0
+million for the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively. Operating lease liabilities arising from obtaining operating right of-use assets were $
+6.8
+million and $
+16.4
+million for the fiscal years ended January 31, 2025 and January 31, 2024, respectively.
+The weighted-average remaining lease terms were
+2.9
+years and
+3.7
+years as of January 31, 2025 and January 31, 2024, respectively. The weighted-average discount rates were
+5.5
+% and
+5.7
+% as of January 31, 2025 and January 31, 2024, respectively.
+The components of lease costs were as follows (in thousands):
+Sublease income for the fiscal years ended January 31, 2025 and January 31, 2024 was
+immaterial
+. There was
+no
+sublease income for the fiscal year ended January 31, 2023. As of January 31, 2025, the Company has not entered into non-cancellable operating leases with terms greater than 12 months that have not yet commenced.
+The maturities of the Company’s non-cancellable operating lease liabilities are as follows (in thousands):
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+8.
+Stock-Based Compensation
+Stock Incentive Plan
+In May 2019, the Company’s board of directors adopted, and the stockholders approved the CrowdStrike Holdings, Inc. 2019 Equity Incentive Plan (the “2019 Plan”) with the purpose of granting stock-based awards to employees, directors, officers, and consultants, including stock options, restricted stock awards, restricted stock units (“RSUs”), and performance-based restricted stock units (“PSUs”). A total of
+8,750,000
+shares of Class A common stock were initially available for issuance under the 2019 Plan. The Company’s compensation committee administers the 2019 Plan. The number of shares of the Company’s common stock available for issuance under the 2019 Plan is subject to an annual increase on the first day of each fiscal year beginning on February 1, 2020, equal to the lesser of: (i)
+two
+percent (
+%) of outstanding shares of the Company’s capital stock as of the last day of the immediately preceding fiscal year or (ii) such other amount as the Company’s board of directors may determine.
+The 2011 Plan was terminated on June 10, 2019, which was the business day prior to the effectiveness of the Company’s registration statement on Form S-1 used in connection with the Company’s IPO, and stock-based awards are no longer granted under the 2011 Plan. Any shares underlying stock options that expire, terminate, or are forfeited or repurchased under the 2011 Plan will be automatically transferred to the 2019 Plan.
+Stock Options
+The Company records compensation expense for employee stock options based on the estimated fair value of the options on the date of grant using the Black-Scholes option-pricing model.
+Stock options granted during both fiscal years ended January 31, 2025 and January 31, 2024 were immaterial.
+The following table is a summary of stock option activity for the fiscal year ended January 31, 2025:
+There were
+no
+options that were unvested and exercisable as of January 31, 2025.
+The aggregate intrinsic value of options vested and exercisable was $
+472.3
+million, $
+451.0
+million, and $
+247.2
+million as of January 31, 2025, January 31, 2024, and January 31, 2023, respectively. The weighted-average remaining contractual term of options vested and exercisable was
+3.5
+years,
+4.2
+years, and
+4.8
+years as of January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+The weighted-average grant date fair values of all options granted was $
+321.98
+, $
+126.16
+, and $
+116.26
+per share during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively. The total intrinsic value of all options exercised was $
+170.4
+million, $
+190.1
+million, and $
+166.8
+million during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The aggregate intrinsic value of stock options outstanding as of January 31, 2025, January 31, 2024, and January 31, 2023 was $
+485.3
+million, $
+496.7
+million, and $
+279.4
+million, respectively, which represents the excess of the fair value of the Company’s common stock over the exercise price of the options, multiplied by the number of options outstanding. The weighted-average remaining contractual term of stock options outstanding was
+3.6
+years,
+4.3
+years, and
+5.0
+years as of January 31, 2025, January 31, 2024, and January 31, 2023, respectively.
+Total unrecognized stock-based compensation expense related to unvested options was $
+8.0
+million as of January 31, 2025. This expense is expected to be amortized over a weighted-average vesting period of
+1.8
+years.
+Restricted Stock Units
+RSUs granted under the 2019 Plan are generally subject to only a service-based vesting condition. The service-based vesting condition is generally satisfied based on one of the following vesting schedules: (i) vesting of one-fourth of the RSUs on the first “Company vest date” (defined as March 20, June 20, September 20, or December 20) on or following the one-year anniversary of the vesting commencement date, with the remainder of the RSUs vesting in
+twelve
+equal quarterly installments thereafter, subject to continued service, (ii) vesting in
+sixteen
+equal quarterly installments, subject to continued service, or (iii) vesting in
+sixteen
+quarterly installments with
+% in the first year,
+% in the second year,
+% in the third year, and
+% in the fourth year, subject to continued service. The valuation of these RSUs is based solely on the fair value of the Company’s stock on the date of grant.
+Total unrecognized stock-based compensation expense related to unvested RSUs was $
+2.1
+billion as of January 31, 2025. This expense is expected to be amortized over a weighted-average vesting period of
+2.7
+years.
+Performance-based Stock Units
+PSUs granted under the 2019 Plan are generally subject to both a service-based vesting condition and a performance-based vesting condition. PSUs will vest upon the achievement of specified performance targets and subject to continued service through the applicable vesting dates. The stock-based compensation expense relating to PSUs is recognized using the accelerated attribution method over the requisite service period when it is probable that the performance condition will be satisfied.
+Total unrecognized stock-based compensation expense related to unvested PSUs was $
+61.0
+million as of January 31, 2025, which reflects the Company's updated assessment of the likelihood of satisfying the performance conditions. This expense is expected to be amortized over a weighted-average vesting period of
+1.1
+years.
+Special PSU Awards
+In fiscal 2022 the Company’s board of directors granted
+655,000
+performance stock units (the “Special PSU Awards”) to certain executives under the 2019 Plan. The Special PSU Awards vest upon the satisfaction of the Company’s achievement of specified stock price hurdles, which are based on the average of the closing stock price per share of the Company’s Class A common stock during any
+consecutive trading day period during the applicable performance period, and a service-based vesting condition. The service condition applicable to each tranche of the Special PSU Awards will be satisfied in installments as follows, subject to continued employment with the Company through each applicable vesting date: (i)
+% of the Special PSU Awards underlying the applicable tranche will service vest on the first anniversary of the vesting commencement date applicable to such tranche of the Special PSU Awards (i.e., February 1, 2022, February 1, 2023, February 1, 2024, and February 1, 2025) and (ii) the remaining PSUs with respect to such tranche will thereafter service vest in
+four
+equal quarterly installments of
+12.5
+%.
+The Company measured the fair value of the Special PSU Awards on the grant date using a Monte Carlo simulation valuation model. The risk-free interest rates used were
+0.85
+% -
+1.51
+%, which were based on the zero-coupon-risk-free interest rate derived from the Treasury Constant Maturities yield curve for the expected term of the award on the grant date. The expected volatility was a blended volatility rate of
+54.89
+% -
+55.36
+%, which includes
+% weight on the Company’s historical volatility calculated from daily stock returns over a
+2.21
+-
+2.58
+year look-back from the grant date and
+% weight based on the Company’s implied volatility as of the grant date.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Total unrecognized stock-based compensation expense related to the unvested portion of the Special PSU Awards was $
+11.2
+million as of January 31, 2025. This expense is expected to be amortized over a weighted-average vesting period of
+1.1
+years.
+The following table is a summary of RSUs, PSUs, and the Special PSU Awards activities for the fiscal year ended January 31, 2025:
+(1)    The performance adjustment represents adjustments in shares outstanding due to the actual achievement of performance-based awards, the achievement of which was based upon pre-defined financial performance targets.
+(2)    Excludes in progress PSUs and Special PSUs where pre-defined targets have not yet been achieved.
+Employee Stock Purchase Plan
+In May 2019, the board of directors adopted, and the stockholders approved, the CrowdStrike Holdings, Inc. 2019 Employee Stock Purchase Plan (“ESPP”), which became effective on June 10, 2019, which was the business day prior to the effectiveness of the Company’s registration statement on Form S-1 used in connection with the Company’s IPO. A total of
+3,500,000
+shares of Class A common stock were initially reserved for issuance under the ESPP. The Company’s compensation committee administers the ESPP. The number of shares of common stock available for issuance under the ESPP is subject to an annual increase on the first day of each fiscal year beginning on February 1, 2020, equal to the lesser of: (i)
+one
+percent (
+%) of the outstanding shares of the Company’s capital stock as of the last day of the immediately preceding fiscal year or (ii) such other amount as its board of directors may determine. In May 2021, the Company’s compensation committee adopted an amendment and restatement of the ESPP, which was approved by the Company’s stockholders in June 2021. The amended and restated ESPP clarified the original intent that the annual increase will in no event exceed
+5,000,000
+shares of the Company’s Class A common stock in any year.
+The ESPP provides for consecutive offering periods that will typically have a duration of approximately
+months in length and are comprised of
+four
+purchase periods of approximately
+six months
+in length. The offering periods are scheduled to start on the first trading day on or after June 11 and December 11 of each year. The first offering period commenced on June 11, 2019 and ended on June 10, 2021.
+The ESPP provides eligible employees with an opportunity to purchase shares of the Company’s Class A common stock through payroll deductions of up to
+% of their eligible compensation. A participant may purchase a maximum of
+2,500
+shares of common stock during a purchase period. Amounts deducted and accumulated by the participant are used to purchase shares of common stock at the end of each
+six-month
+purchase period. The purchase price of the shares is
+% of the lower of the fair market value of the Class A common stock on (i) the first trading day of the applicable offering period and (ii) the last trading day of each purchase period in the related offering period. Participants may end their participation at any time during an offering period and will be paid their accrued contributions that have not yet been used to purchase shares of common stock. Participation ends automatically upon termination of employment. The ESPP allows for up to
+one
+increase in contribution during each purchase period. If an employee elects to increase his or her contribution, the Company treats this as an accounting modification. The ESPP also offers a
+two-year
+look-back feature, as well as a rollover feature that provides for an offering period to be rolled over to a new lower-priced offering if the offering price of the new offering period is less than that of the
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+current offering period. During the fiscal years ended January 31, 2025 and January 31, 2023, there were ESPP rollovers because the Company’s closing stock price on the purchase date was lower than the Company’s closing stock price on the first day of the offering periods. As a result, these offering dates were rolled over to new
+24-month
+offering periods through December 10, 2026, and December 12, 2024, respectively. These rollovers were accounted for as a modification to the original offerings. The total incremental expense as a result of the rollover and contribution modifications was $
+12.4
+million and $
+58.6
+million, respectively, which will be recognized over the new or remaining offering periods. There were no ESPP rollovers during the fiscal year ended January 31, 2024. Total incremental expense as a result of contribution modifications during the fiscal year ended January 31, 2024 was $
+7.3
+million, which will be recognized over the remaining offering periods.
+Employee payroll contributions ultimately used to purchase shares are reclassified to stockholders’ equity on the purchase date. ESPP employee payroll contributions accrued as of January 31, 2025 and January 31, 2024 totaled $
+33.2
+million and $
+22.3
+million, respectively, and are included within accrued payroll and benefits in the consolidated balance sheets.
+The following table summarizes the assumptions used in the Black-Scholes option-pricing model to determine the fair value of employee stock purchase rights granted under the Company’s ESPP:
+Stock-Based Compensation Expense
+Stock-based compensation expense included in the consolidated statements of operations is as follows (in thousands):
+9.
+Revenue, Deferred Revenue and Remaining Performance Obligations
+The following table summarizes revenue by region based on the shipping address of customers who have contracted to use the Company’s platform or service (in thousands, except percentages):
+No single country other than the United States represented 10% or more of the Company’s total revenue during the fiscal years ended January 31, 2025, January 31, 2024, and January 31, 2023.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+Contract Balances
+Contract liabilities consist of deferred revenue and include payments received in advance of performance under the contract. Such amounts are recognized as revenue over the contractual period. The Company recognized revenue of $
+2,251.3
+million and $
+1,718.5
+million for the fiscal years ended January 31, 2025 and January 31, 2024, respectively, which was included in the corresponding contract liability balance at the beginning of the period.
+The Company receives payments from customers based upon contractual billing schedules. Accounts receivable are recorded when the right to consideration becomes unconditional. Payment terms on invoiced amounts are typically
+–
+days. Contract assets include amounts related to the contractual right to consideration for both completed and partially completed performance obligations that may not have been invoiced.
+Changes in deferred revenue were as follows (in thousands):
+Remaining Performance Obligations
+The Company’s subscription contracts with its customers have a typical term of
+one
+to
+three years
+, and most subscription contracts are non-cancellable. Customers generally have the right to terminate their contracts for cause as a result of the Company’s failure to perform. As of January 31, 2025, the aggregate amount of the transaction price allocated to remaining performance obligations was $
+6.5
+billion. The Company expects to recognize approximately
+% of the remaining performance obligations in the
+months following January 31, 2025 and
+% of the remaining performance obligations between
+to
+months, with the remainder to be recognized thereafter.
+Costs to Obtain and Fulfill a Contract
+The Company capitalizes referral fees paid to partners and sales commissions and associated payroll taxes paid to internal sales personnel, contractors, or sales agents that are incremental to the acquisition of channel partner and direct customer contracts and would not have occurred absent the customer contract. These costs are recorded as deferred contract acquisition costs, current and deferred contract acquisition costs, noncurrent on the consolidated balance sheets.
+Sales commissions for renewal of a contract are not considered commensurate with the commissions paid for the acquisition of the initial contract or follow-on upsell given the substantive difference in commission rates in proportion to their respective contract values. Commissions, including referral fees paid to referral partners, earned upon the initial acquisition of a contract or subsequent upsell are amortized over an estimated period of benefit of
+four years
+, while commissions earned for renewal contracts are amortized over the contractual term of the renewals. Sales commissions associated with professional service contracts are amortized ratably over an estimated period of benefit of
+five months
+. Commissions are included in sales and marketing expense in the consolidated statements of operations. In determining the period of benefit for commissions paid for the acquisition of the initial contract, the Company took into consideration the expected subscription term and expected renewals of customer contracts, the historical duration of relationships with customers, customer retention data, and the life of the developed technology. The Company periodically reviews the carrying amount of deferred contract acquisition costs to determine whether events or changes in circumstances have occurred that could impact the period of benefit of these deferred costs. The Company did
+no
+t recognize any material impairment losses of deferred contract acquisition costs during the year ended January 31, 2025.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The following table summarizes the activity of deferred contract acquisition costs (in thousands):
+10.
+Commitments and Contingencies
+July 19 Incident
+On July 19, 2024, the Company released a content configuration update for its Falcon sensor that resulted in system crashes for certain Windows systems (the “July 19 Incident”). The Company is subject to a number of legal proceedings in connection with the July 19 Incident, including:
+•
+On July 30, 2024, a putative class action lawsuit was filed against the Company and certain of the Company’s officers in federal court in the Western District of Texas alleging violations of federal securities laws, including that the defendants made false or misleading statements. The complainants seek certification of a class of all persons who purchased or otherwise acquired the Company’s securities during specified periods of time and are seeking unspecified monetary damages, costs and attorneys’ fees. On January 21, 2025, an amended complaint was filed.
+•
+On August 5, 2024, a putative class action lawsuit was filed against CrowdStrike, Inc. in federal court in the Western District of Texas alleging, among other things, negligence and violations of the California Unfair Competition Law. The complainants seek certification of a nationwide class, as well as sub-classes of certain California, Ohio, and Pennsylvania citizens, who had a flight delayed or canceled during a specified period of time and are seeking unspecified monetary damages, certain injunctive relief, costs and attorneys’ fees. On November 6, 2024, this lawsuit was consolidated with the August 19, 2024 lawsuit described below, and interim class counsel was appointed. On December 6, 2024, a consolidated class action complaint was filed. On February 4, 2025, CrowdStrike, Inc. filed a motion to dismiss the complaint.
+•
+On August 19, 2024, a putative class action lawsuit was filed against the Company and CrowdStrike, Inc. in federal court in the Western District of Texas alleging, among other things, negligence in the design and testing of the Falcon sensor and tortious interference between certain airline customers and their airline. The complainants seek certification of a nationwide class (or alternatively a class of Iowa citizens) who had a flight delayed or canceled on a specified airline during a specific period of time and are seeking unspecified monetary damages, costs and attorneys’ fees. On November 6, 2024, this lawsuit was consolidated with the lawsuit filed on August 5, 2024 described above and was administratively closed.
+•
+On September 4, September 11, and September 20, 2024,
+three
+derivative lawsuits were filed against certain of the Company’s officers and directors, and against the Company as nominal defendant, in federal court in the Western District of Texas alleging breach of fiduciary duty under Delaware law and violations of federal securities laws, including that the defendants made false or misleading statements in violation of Sections 10(b) and 14(a) of the Exchange Act and SEC Rules 10b-5 and 14a-9. One of the lawsuits also brings a claim against certain of the defendants for contribution under Sections 10(b) and 21D of the Exchange Act. The complainants seek monetary and non-monetary relief purportedly on behalf of the Company. On November 21, 2024, all
+three
+cases were consolidated and stayed pending resolution of the putative securities class action described above.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+•
+On October 25, 2024, Delta Airlines, Inc. (“Delta”) filed a complaint against CrowdStrike, Inc. in the Superior Court for Fulton County, Georgia, alleging, among other things, computer trespass, trespass to personalty, breach of contract, intentional misrepresentation/fraud by omission, strict-liability product defect, gross negligence, and deceptive and unfair business practices. Delta is seeking unspecified monetary damages, attorneys’ fees and unspecified punitive damages. The matter has been transferred to the Metro Atlanta Business Case Division. On December 16, 2024, CrowdStrike, Inc. filed a motion to dismiss.
+Additionally, some customers and third parties have asserted claims or publicly threatened litigation against the Company. The Company has also received inquiries from governmental authorities and other third parties related to the July 19 Incident. The Company is cooperating and providing information in connection with these inquiries.
+For any claims and legal proceedings for which the Company believes a liability is both probable and reasonably estimable, the Company records a liability in the period for which it makes this determination. For claims and legal proceedings where a loss may be reasonably possible, but not probable, or is probable but not reasonably estimable, no accrual is established. While the Company believes it is reasonably possible that it could incur losses associated with the claims, proceedings and inquiries described above, it is not possible to estimate the amount of any loss or range of possible loss that might result from adverse judgments, settlements, penalties or other resolutions of these claims, proceedings and inquiries based on their early stage, and the lack of resolution on significant factual and legal issues. Because the final outcome of any of these matters cannot be predicted with certainty, unfavorable or unexpected developments or outcomes could result in a material impact to the Company’s results of operations.
+The Company expects to incur significant legal and professional services and other expenses associated with the July 19 Incident in future periods. These expenses will be recognized as incurred. Certain costs may be recoverable under the Company’s insurance policies in effect at the date of the July 19 Incident. Any amounts recoverable under such policies will be reflected in future periods in which recovery is considered probable.
+Amounts accrued and expenses incurred, net of insurance receivable recorded, relating to the July 19 Incident during fiscal years ended January 31, 2025 were as follows (in thousands):
+(1)    These expenses were included in the Company’s consolidated statements of operations as sales and marketing expenses, research and development expenses, and general and administrative expenses. Accruals were recorded in accrued expenses in the Company’s consolidated balance sheets. Insurance receivable was recorded in prepaid expenses and other current assets in the Company’s consolidated balance sheets.
+In addition to customer commitment packages, the Company has made an immaterial amount of settlement offers to certain customers in response to the July 19 Incident. These amounts are, or will be, entirely offset by recoveries under the Company’s insurance policies. Accordingly, there is no impact on the Company’s consolidated statement of operations for the fiscal year ended January 31, 2025. The customer payables and insurance receivables were recorded as accrued expenses and as prepaid expenses and other current assets in the Company’s consolidated balance sheet as of January 31, 2025, respectively.
+Other Legal Proceedings
+In March 2022, Webroot, Inc. and Open Text, Inc. (collectively, “Webroot”) filed a lawsuit against the Company and CrowdStrike, Inc. in federal court in the Western District of Texas alleging that certain of the Company’s products infringe
+six
+patents held by them. In the complaint, Webroot sought unspecified damages, attorneys’ fees and a permanent injunction. In May 2022, CrowdStrike, Inc. asserted counterclaims alleging that certain of Webroot’s products infringe
+two
+of its patents. In the filing, CrowdStrike, Inc. sought unspecified damages, reasonable fees and costs, and a permanent injunction. In September 2022, Webroot amended its complaint to assert
+six
+additional patents. In November 2023, CrowdStrike, Inc. entered into an
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+agreement that provided for, among other things, the settlement and dismissal of the parties’ claims and filed for dismissal. The amount attributable to the settlement was not material.
+In addition, the Company is involved in various other legal proceedings and subject to claims that arise in the ordinary course of business. For any claims for which the Company believes a liability is both probable and reasonably estimable, the Company records a liability in the period for which it makes this determination. Other than as discussed above, there is no pending or threatened legal proceeding to which the Company is a party that, in the Company’s opinion, is reasonably possible to have a material effect on its consolidated financial statements; however, the results of litigation and claims are inherently unpredictable. Regardless of the outcome, litigation can have an adverse impact on the Company’s business because of defense and settlement costs, diversion of management resources, and other factors. In addition, the costs of litigation and the timing of these costs from period to period are difficult to estimate, subject to change and could adversely affect the Company’s consolidated financial statements.
+Purchase Obligations
+In the normal course of business, the Company enters into non-cancellable purchase commitments with various parties to purchase products and services such as data center capacity, advertising, technology, equipment, office renovations, corporate events, and consulting services.
+A summary of non-cancellable purchase obligations in excess of one year as of January 31, 2025, with expected date of payment is as follows (in thousands):
+Unfunded Loan Commitments
+The Company provides financing arrangements for certain qualified end-users to purchase its products and services. When the Company enters into these financing arrangements with the end-users, the funds provided by the Company for the sales transactions do not always occur immediately upon signing, depending on the terms of the arrangements. The Company estimates an allowance for credit losses on these off-balance sheet credit exposures at each reporting period on the contractual period over which the Company is exposed to credit risk via a contractual obligation to extend credit, unless that obligation is unconditionally cancellable by the Company. As of January 31, 2025, the Company had non-cancellable unfunded commitments totaling approximately $
+94.2
+million.
+Warranties and Indemnification
+The Company’s cloud computing services are typically warranted to perform in a manner consistent with general industry standards that are reasonably applicable and materially in accordance with the Company’s online help documentation under normal use and circumstances. In addition, for its Falcon Complete customers, the Company offers a limited warranty, subject to certain conditions, to cover certain costs incurred by the customer in case of a cybersecurity breach. The Company has entered into an insurance policy to reduce its potential liability arising from such limited warranty arrangements. The Company’s customer arrangements generally include certain provisions for indemnifying customers against losses suffered or incurred as a result of third-party claims that the Company’s products or services infringe a third party’s intellectual property rights. From time to time, the Company has also agreed to certain other indemnifications and warranties. The Company has not incurred any material costs because of such obligations and has not accrued any liabilities related to such obligations in the consolidated financial statements as of January 31, 2025 or January 31, 2024
+.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The Company has also agreed to indemnify its directors and certain executive officers for costs associated with any fees, expenses, judgments, fines, and settlement amounts incurred by any of these persons in any action or proceeding to which any of those persons is, or is threatened to be, made a party by reason of the person’s service as a director or officer, including any action by the Company, arising out of that person’s services as the Company’s director or officer or that person’s services provided to any other company or enterprise at the Company’s request. The Company maintains director and officer insurance coverage that would generally enable the Company to recover a portion of any future amounts paid. The Company may also be subject to indemnification obligations by law with respect to the actions of its employees under certain circumstances and in certain jurisdictions.
+No
+liabilities have been accrued associated with this indemnification provision as of January 31, 2025 or January 31, 2024
+.
+11.
+Geographic Information
+The Company’s property and equipment, net and operating lease right-of-use assets, are summarized by geographic area as follows (in thousands):
+12.
+Acquisitions
+Adaptive Shield
+On November 20, 2024, the Company acquired
+% of the equity interest of A.S. Adaptive Shield Ltd. (“Adaptive Shield”), a SaaS-based cybersecurity company that offers customers comprehensive SaaS security posture management solutions.
+The acquisition has been accounted for as a business combination. The total consideration transferred consisted of $
+213.7
+million in cash, net of $
+13.7
+million of cash acquired, and $
+0.7
+million representing the fair value of replacement equity awards attributable to pre-acquisition service. The remaining fair value of these replacement awards attributed to post-combination service was excluded from the purchase price. The purchase price was allocated on a preliminary basis, subject to working capital adjustment and continuing management analysis, to identifiable intangible assets, which include developed technology and customer relationships of $
+31.1
+million, net tangible liabilities acquired of $
+7.7
+million, and goodwill of $
+191.0
+million, which was allocated to the Company’s
+one
+reporting unit and represents the excess of the purchase price over the fair value of net tangible and intangible assets acquired. The goodwill was primarily attributable to the assembled workforce of Adaptive Shield, planned growth in new markets, and synergies expected to be achieved from the integration of Adaptive Shield. Goodwill is not deductible for income tax purposes.
+Per the terms of the share purchase agreement with Adaptive Shield, certain unvested stock options held by Adaptive Shield employees were canceled and exchanged for replacement stock options under the 2019 Plan. Additionally, certain shares of Adaptive Shield stock held by Adaptive Shield employees were exchanged for shares of the Company’s common stock, subject to service-based vesting and other conditions. Further, the Company granted RSUs and PSUs under the 2019 Plan to certain continuing employees. The awards that are subject to continued service are recognized ratably as stock-based compensation cost over the requisite service period. The awards that are subject to both continued service and specified performance targets are recognized over the requisite service period when it is probable that the performance condition will be satisfied.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The following table sets forth the components of identifiable intangible assets acquired and their estimated useful lives as of the date of acquisition (dollars in thousands):
+Acquisition costs incurred during the fiscal year ended January 31, 2025 were $
+2.7
+million and are recorded in general and administrative expenses on the Company’s consolidated statements of operations.
+The results of operations for the acquisition have been included in the Company’s consolidated financial statements from the date of acquisition. The acquisition of Adaptive Shield did not have a material impact on the Company’s consolidated financial statements, and therefore historical and pro forma disclosures have not been presented.
+Flow Security
+On March 26, 2024, the Company acquired
+% of the equity interest of Flow Security Ltd. (“Flow Security”), a leading provider of data security solutions.
+The acquisition has been accounted for as a business combination. The total consideration transferred consisted of $
+96.4
+million in cash, net of $
+0.8
+million of cash acquired, and $
+0.5
+million representing the fair value of replacement equity awards attributable to pre-acquisition service. The remaining fair value of these replacement awards attributed to post-combination service was excluded from the purchase price. The purchase price was allocated on a preliminary basis, subject to working capital adjustment and continuing management analysis, to developed technology of $
+13.5
+million with a useful life of
+months, net tangible liabilities acquired of $
+0.6
+million, and goodwill of $
+84.0
+million, which was allocated to the Company’s
+one
+reporting unit and represents the excess of the purchase price over the fair value of net tangible and intangible assets acquired. The goodwill was primarily attributable to the assembled workforce of Flow Security, planned growth in new markets, and synergies expected to be achieved from the integration of Flow Security. Goodwill is not deductible for income tax purposes.
+Per the terms of the share purchase agreement with Flow Security, certain unvested stock options held by Flow Security employees were canceled and exchanged for replacement stock options under the 2019 Plan. Additionally, certain shares of Flow Security stock held by Flow Security employees were exchanged for the right to receive shares of the Company’s common stock, subject to service-based vesting and other conditions. Further, the Company granted RSUs and PSUs under the 2019 Plan to certain continuing employees. The awards that are subject to continued service are recognized ratably as stock-based compensation cost over the requisite service period. The awards that are subject to both continued service and specified performance targets are recognized over the requisite service period when it is probable that the performance condition will be satisfied.
+Acquisition costs incurred during the fiscal year ended January 31, 2025 were $
+3.2
+million and are primarily recorded in general and administrative expenses on the Company’s consolidated statements of operations.
+The results of operations for the acquisition have been included in the Company’s consolidated financial statements from the date of acquisition. The acquisition of Flow Security did not have a material impact on the Company’s consolidated financial statements, and therefore historical and pro forma disclosures have not been presented.
+Bionic
+On September 28, 2023, the Company acquired
+% of the equity interest of Bionic Stork, Ltd. (“Bionic”), a privately-held company that provides an Application Security Posture Management platform designed to proactively reduce and mitigate security, data privacy, and operational risks by analyzing application architecture and dependencies that run in production.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The acquisition has been accounted for as a business combination. The total consideration transferred consisted of $
+239.0
+million in cash, net of $
+25.7
+million of cash acquired, and $
+0.7
+million representing the fair value of replacement equity awards attributable to pre-acquisition service. The remaining fair value of these replacement awards attributed to post-combination service was excluded from the purchase price. The purchase price was allocated to identified intangible assets, which include developed technology and customer relationships of $
+34.9
+million, net tangible liabilities acquired of $
+2.7
+million, and goodwill of $
+207.5
+million, which was allocated to the Company’s
+one
+reporting unit and represents the excess of the purchase price over the fair value of net tangible and intangible assets acquired. The goodwill was primarily attributable to the assembled workforce of Bionic, planned growth in new markets, and synergies expected to be achieved from the integration of Bionic. Goodwill is not deductible for income tax purposes.
+Per the terms of the share purchase agreement with Bionic, certain unvested stock options held by Bionic employees were canceled and exchanged for replacement stock options under the 2019 Plan. Additionally, certain shares of Bionic stock held by Bionic employees were exchanged for shares of the Company’s common stock, subject to service-based vesting and other conditions. Further, the Company granted RSUs and PSUs under the 2019 Plan to certain continuing employees. The awards that are subject to continued service are recognized ratably as stock-based compensation expense over the requisite service period. The awards that are subject to both continued service and specified performance targets are recognized over the requisite service period when it is probable that the performance condition will be satisfied.
+The following table sets forth the components of identifiable intangible assets acquired and their estimated useful lives as of the date of acquisition (dollars in thousands):
+Acquisition costs incurred during the fiscal year ended January 31, 2025 were immaterial.
+The results of operations for the acquisition have been included in the Company’s consolidated financial statements from the date of acquisition. The acquisition of Bionic did not have a material impact on the Company’s consolidated financial statements, and therefore historical and pro forma disclosures have not been presented
+.
+13.
+Net Income (Loss) Per Share Attributable to Common Stockholders
+Basic and diluted net income (loss) per share attributable to CrowdStrike’s common stockholders is computed in conformity with the two-class method required for participating securities. Basic net income (loss) per share attributable to CrowdStrike common stockholders is computed by dividing the net income (loss) attributable to CrowdStrike by the weighted-average number of shares of common stock outstanding during the period. Diluted net income per share attributable to CrowdStrike common stockholders is calculated by dividing net income by the combination of the weighted-average number of common shares outstanding and the effect of the weighted-average number of dilutive common share equivalents during the period. The dilutive potential shares of common stock are comprised of outstanding stock options, RSUs, PSUs, Special PSUs, ESPP obligations, and founders’ holdbacks, and are computed using the treasury stock method. The effects of the outstanding stock options, RSUs, PSUs, Special PSUs, ESPP obligations, and founders holdbacks are excluded from the computation of the diluted net income per share in periods in which the effect would be anti-dilutive. Diluted net loss per share is the same as basic net loss per share for the fiscal year ended January 31, 2025 and January 31, 2023 because the effects of potentially dilutive items were antidilutive given the Company’s net loss position during fiscal year ended January 31, 2025 and January 31, 2023.
+The rights of the holders of Class A and Class B common stock are identical, except with the respect to voting and conversion rights. As such, the undistributed earnings are allocated equally to each share of common stock without class distinction and the resulting basic and diluted net income (loss) per share attributable to CrowdStrike common stockholders are the same for shares of Class A and Class B common stock. On December 11, 2024, all of the Company’s outstanding shares of Class B common stock were automatically converted into an equal number of shares of Class A common stock pursuant to the provisions of the Amended and Restated Certificate of Incorporation.
+CrowdStrike Holdings, Inc.
+Notes to Consolidated Financial Statements
+The following table sets forth the computation of basic and diluted net income (loss) per share attributable to CrowdStrike common stockholders (in thousands, except per share data):
+The potential shares of common stock that were excluded from the computation of diluted net income (loss) per share attributable to common stockholders for the periods presented because including them would have been antidilutive are as follows (in thousands):
+The above table excludes founder holdbacks related to business combinations where a variable number of shares will be issued upon vesting to settle a fixed monetary amount of $
+18.4
+million, contingent upon continued employment with the Company. The share price will be determined based on the Company’s average stock price or the volume weighted average stock price five days prior to each vesting date. During the fiscal year ended January 31, 2025,
+10,780
+shares were issued to settle founder holdbacks at a weighted average price of $
+329.82
+per share.
+As of January 31, 2025, the above table also excludes
+575,747
+outstanding shares of in progress PSUs and Special PSUs where pre-defined targets have not yet been achieved.
+14.
+Segment Information
+CrowdStrike’s Chief Operating Decision Maker (“CODM”), the Chief Executive Officer, manages the Company’s business activities as a single operating and reportable segment at the consolidated level. Accordingly, the CODM uses consolidated net income (loss) to measure segment profit or loss, evaluate financial performance, and allocate resources. Consolidated net income (loss) is evaluated on a monthly basis by comparing actual results against budgeted or forecasted net income (loss), facilitating the analysis of the Company’s financial trends.
+Significant expenses within net income (loss) include cost of revenue for subscription and professional services, sales and marketing expenses, research and development expenses, and general and administrative expenses. Other segment items within net income (loss) include interest expense, interest income, other income, net, and provision for income taxes, which are each separately disclosed and presented in the consolidated statements of operations.
+See Note 9 for additional information about the Company’s revenue by geographic region, and Note 11 for additional information about the Company’s property and equipment, net and operating lease right-of-use assets by geographic region.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+--------------------------------------------------------------------------------------------
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+--------------------------------
+Evaluation of Disclosure Controls and Procedures
+We maintain “disclosure controls and procedures,” as defined in Rule 13a–15(e) and Rule 15d–15(e) under the Exchange Act that are designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures as of January 31, 2025. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level.
+Management
+’
+s Report on Internal Control Over Financial Reporting
+Our management is responsible for establishing and maintaining adequate “internal control over financial reporting,” as defined in Rule 13a-15(f) and Rule 15d-15(f) under the Exchange Act. Our management conducted an evaluation of the effectiveness of our internal control over financial reporting as of January 31, 2025 based on the criteria established in
+Internal Control - Integrated Framework
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+Based on the results of its evaluation, management concluded that our internal control over financial reporting was effective as of
+January 31, 2025
+. The effectiveness of our internal control over financial reporting as of
+January 31, 2025
+has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in its report which is included in Part II, Item 8 of this Annual Report on Form 10-K.
+Changes in Internal Control Over Financial Reporting
+There was no change in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and Rule 15d-15(d) of the Exchange Act that occurred during the fiscal quarter ended January 31, 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Inherent Limitations on Effectiveness of Controls
+Our management, including our Chief Executive Officer and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. However, our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because
+of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+
+ITEM 9B. OTHER INFORMATION
+--------------------------
+During the three months ended January 31, 2025, certain of our directors and officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted a “Rule 10b5-1 trading arrangement” (as defined in Regulation S-K Item 408) for the sale of shares of our Class A common stock, as set forth below, in amounts and prices determined in accordance with a formula set forth in each such plan:
+(1) Intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).
+(2) Not intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).
+(3) Intended to permit Mr. Henry to sell (i)
+21,330
+shares subject to RSUs and (ii)
+33,003
+shares subject to PSUs. The actual number of shares subject to PSUs that may be sold is subject to the satisfaction of the applicable performance conditions and may be equal to, greater than or less than
+33,003
+shares.
+(4) Each as subject to further early termination for certain specified events as set forth therein.
+No other officers or directors, as defined in Rule 16a-1(f),
+adopted
+and/or
+terminated
+a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 trading arrangement,” as defined in Regulation S-K Item 408, during the last fiscal quarter.
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+----------------------------------------------------------------------------
+Not applicable.
+
+PART III
+========
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+---------------------------------------------------------------
+We have adopted a code of business conduct and ethics (the “Code of Conduct”) that applies to all of our employees, executive officers and directors. The full text of the Code of Conduct is available on our website at ir.crowdstrike.com. The nominating and corporate governance committee of our board of directors is responsible for overseeing the Code of Conduct and must approve any waivers of the Code of Conduct for employees, executive officers and directors. We expect that any amendments to the Code of Conduct, or any waivers of its requirements, will be disclosed on our website, as required by applicable law or the listing standards of The Nasdaq Global Select Market.
+Certain information required by this Item with respect to our executive officers is set forth under Item 1 of Part I of this Annual Report on Form 10-K under the section entitled “Information about our Executive Officers.”
+The information otherwise required by this Item will be included in our definitive proxy statement for our 2025 annual meeting of stockholders (the “2025 Proxy Statement”), which will be filed with the SEC within 120 days after the end of our fiscal year ended January 31, 2025, and is incorporated herein by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION
+-------------------------------
+The information required by this item is incorporated herein by reference to our 2025 Proxy Statement.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+-------------------------------------------------------------------------------------------------------
+The information required by this item is incorporated herein by reference to our 2025 Proxy Statement.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+----------------------------------------------------------------------------------
+The information required by this item is incorporated herein by reference to our 2025 Proxy Statement.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+-----------------------------------------------
+The information required by this item is incorporated herein by reference to our 2025 Proxy Statement.
+
+PART IV
+=======
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+---------------------------------------------------
+(a)(1) Financial Statements
+See Index to consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K.
+(a)(2) Financial Statement Schedule
+All financial statement schedules have been omitted as the information is not required under the related instructions or is not applicable or because the information required is already included in the consolidated financial statements or the notes to those consolidated financial statements.
+(a)(3) Exhibits
+We have filed the exhibits listed on the accompanying Exhibit Index, which is incorporated herein by reference.
+
+ITEM 16. FORM 10-K SUMMARY
+--------------------------
+None.
+EXHIBIT INDEX
+_______________________________________
+†
+Indicates management contract or compensatory plan, contract or agreement.
+*
+The certifications furnished in Exhibit 32.1 hereto are deemed to accompany this Annual Report on Form 10-K and will not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, except to the extent that the registrant specifically incorporates it by reference.
+SIGNATURES
+Pursuant to the requirements of the Securities Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized on the day of March 10, 2025.
+POWER OF ATTORNEY
+KNOW ALL THESE PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints George Kurtz and Burt W. Podbere, and each of them, as his or her true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or any of them, or their, his or her substitutes, may lawfully do or cause to be done by virtue thereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.
+
