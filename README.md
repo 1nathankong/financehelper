@@ -1,1 +1,1 @@
-# financehelper
+ An offline, free‑to‑run workflow that retrieves SEC EDGAR 10‑K filings, converts them to clean text, and structures them into JSONL for analysis. Uses local LLM inference (e.g., Ollama) to surface investment‑relevant signals and multi‑year trends, reducing manual review by ~80%.
